@@ -1,0 +1,2918 @@
+,column_name,shap_importance
+1,anchor_age,0.41109225153923035
+1923,Lactic Acid,0.3315952718257904
+2750,Temperature Fahrenheit,0.26672446727752686
+2050,O2 saturation pulseoxymetry,0.26404574513435364
+1095,Braden Mobility,0.22727763652801514
+1516,Heart Rate,0.22548002004623413
+1446,GCS - Motor Response,0.21275216341018677
+2524,Respiratory Rate,0.2114933282136917
+235,NaCl 0.9%,0.2059348225593567
+2032,Non Invasive Blood Pressure systolic,0.1951715499162674
+1889,Inspired O2 Fraction,0.18574759364128113
+1445,GCS - Eye Opening,0.18189501762390137
+2554,Richmond-RAS Scale,0.17683112621307373
+229,Morphine Sulfate,0.15911518037319183
+247,Norepinephrine,0.1448301374912262
+19,Foley,0.1278936266899109
+2672,Strength R Leg,0.11804064363241196
+2526,Respiratory Rate (Total),0.11675877124071121
+1097,Braden Nutrition,0.1108834519982338
+384,Base Excess,0.10837393254041672
+1098,Braden Sensory Perception,0.10081613808870316
+956,Admission Weight (Kg),0.09855838865041733
+957,Admission Weight (lbs.),0.09623359888792038
+270,PO Intake,0.09215688705444336
+2046,O2 Flow_y,0.09104395657777786
+256,OR Crystalloid Intake,0.09072911739349365
+69,Void,0.0885586217045784
+9,Chest Tube #1,0.0881609320640564
+848,pH,0.0863066092133522
+616,Lactate,0.08310269564390182
+728,RDW,0.08222444355487823
+2227,Platelet Count_y,0.08038100600242615
+700,Platelet Count_x,0.07367854565382004
+686,PT,0.06758305430412292
+328,patientweight,0.06718391180038452
+321,Vasopressin,0.06402578949928284
+1978,Minute Volume,0.061290010809898376
+1094,Braden Friction/Shear,0.054287299513816833
+461,"Chloride, Whole Blood",0.05372365191578865
+391,Bicarbonate,0.052713245153427124
+2124,PH (Arterial),0.05154187232255936
+2189,Peak Insp. Pressure,0.05028329789638519
+1488,Glucose finger stick (range 70-100),0.05026102438569069
+841,White Blood Cells,0.049751270562410355
+2030,Non Invasive Blood Pressure diastolic,0.049456339329481125
+1039,Arterial Blood Pressure systolic,0.04888412728905678
+2433,Prothrombin time,0.048200830817222595
+288,Pre-Admission/Non-ICU Intake,0.04717222601175308
+1213,Chloride (serum),0.04692888259887695
+2031,Non Invasive Blood Pressure mean,0.04663925617933273
+873,18 Gauge placed in outside facility,0.04653901979327202
+195,Insulin - Regular,0.04620354250073433
+2154,Pain Level,0.045302387326955795
+642,Magnesium_x,0.04447555914521217
+1485,Glucose (serum),0.04323272034525871
+366,Anion Gap,0.04270784556865692
+2225,Plateau Pressure,0.042247530072927475
+131,Dextrose 5%,0.0417642816901207
+459,Chloride,0.04165206104516983
+157,Fentanyl (Concentrate),0.04083049297332764
+2908,WBC_y,0.03823467344045639
+473,Creatinine,0.03745831176638603
+1010,Anion gap,0.03479529917240143
+636,MCV,0.03363744914531708
+847,pCO2,0.03312959522008896
+2525,Respiratory Rate (Set),0.032977376133203506
+179,Heparin Sodium (Prophylaxis),0.0324915386736393
+2901,Visual / hearing deficit,0.032314226031303406
+880,20 Gauge placed in outside facility,0.03224926441907883
+813,Urea Nitrogen,0.0314953550696373
+1872,Indwelling Port (PortaCath) Dressing Occlusive,0.03149228170514107
+279,Phenylephrine,0.0312938466668129
+870,18 Gauge Dressing Occlusive,0.031239761039614677
+530,Glucose,0.031102685257792473
+1887,Inspiratory Time,0.030470363795757294
+1093,Braden Activity,0.03028891794383526
+1282,Daily Weight,0.029523853212594986
+565,Hemoglobin_x,0.02934197708964348
+1062,BUN,0.029321717098355293
+308,Solution,0.028648119419813156
+2156,Pain Level Response,0.028263164684176445
+635,MCHC,0.028161656111478806
+521,Free Calcium,0.028010208159685135
+2125,PH (Venous),0.02764439396560192
+2761,Temporary Pacemaker Rate,0.02721378207206726
+220,Mannitol,0.02690022625029087
+444,"Calcium, Total",0.02663480117917061
+450,Calculated Total CO2,0.026253804564476013
+687,PTT_x,0.025897348299622536
+294,Propofol,0.025784116238355637
+2721,TCO2 (calc) Arterial,0.025365568697452545
+1178,Calcium non-ionized,0.025328848510980606
+1096,Braden Moisture,0.02517084963619709
+2637,Sodium (serum),0.02488064393401146
+1486,Glucose (whole blood),0.024669891223311424
+2598,Serum Osmolality,0.024543408304452896
+2061,Orientation to Time,0.02448277920484543
+2644,SpO2 Desat Limit,0.024013886228203773
+217,Magnesium Sulfate,0.023957744240760803
+165,Fresh Frozen Plasma,0.023951761424541473
+1195,Central Venous Pressure,0.023889152333140373
+2777,Tidal Volume (observed),0.02385806292295456
+558,Hematocrit,0.023626741021871567
+1909,LDH,0.023407569155097008
+849,pO2,0.023339971899986267
+53,Pre-Admission,0.02309989556670189
+1047,Arterial O2 pressure,0.022980228066444397
+2893,Ventilator Mode,0.022778810933232307
+695,Phosphate,0.02255222201347351
+800,Troponin T,0.022433297708630562
+1265,Creatinine (serum),0.021762551739811897
+734,Red Blood Cells,0.02166866511106491
+2139,PSV Level,0.021661357954144478
+139,Dopamine,0.0209114421159029
+2213,Phosphorous,0.02079435996711254
+122,D5 1/2NS,0.020751874893903732
+177,Heparin Sodium,0.020717982202768326
+1496,HCO3 (serum),0.02048143371939659
+2645,Special diet,0.020076598972082138
+353,Alkaline Phosphatase,0.019204160198569298
+707,"Potassium, Whole Blood",0.018848756328225136
+2148,PTT_y,0.018794232979416847
+1303,Differential-Eos,0.018742337822914124
+1111,CAM-ICU Inattention,0.0185852013528347
+756,Sodium,0.018542485311627388
+1037,Arterial Blood Pressure diastolic,0.01846558041870594
+617,Lactate Dehydrogenase (LD),0.01819065399467945
+900,ALT,0.01779038831591606
+1491,Goal Richmond-RAS Scale,0.017750468105077744
+41,OR Urine,0.0176196601241827
+1524,Hematocrit (serum),0.017554989084601402
+1277,Currently experiencing pain,0.0175461582839489
+227,Midazolam (Versed),0.017469080165028572
+156,Fentanyl_x,0.017439287155866623
+243,Nicardipine,0.017344392836093903
+1386,EtCO2,0.016616664826869965
+517,"Fibrinogen, Functional",0.01655280776321888
+1038,Arterial Blood Pressure mean,0.01650668866932392
+2788,Total Bilirubin,0.016271280124783516
+1034,Arterial Base Excess,0.015994515269994736
+561,"Hematocrit, Calculated",0.015589579939842224
+612,Ketone,0.015263108536601067
+1520,Heart rate Alarm - High,0.015240457840263844
+705,Potassium,0.015146680176258087
+2243,Potassium (serum),0.01514018326997757
+671,Nucleated Red Cells,0.015137141570448875
+954,Acuity Workload Question 1,0.015132245607674122
+282,Piggyback,0.015113260596990585
+1691,Impaired Skin Length #1,0.015110952779650688
+1888,Inspired Gas Temp.,0.01496711652725935
+237,NaCl 3% (Hypertonic Saline),0.014796171337366104
+245,Nitroglycerin,0.014613388106226921
+936,Absolute Count - Lymphs,0.01454520970582962
+1036,Arterial Blood Pressure Alarm - Low,0.014045373536646366
+1109,CAM-ICU Altered LOC,0.014040861278772354
+1903,Is the spokesperson the Health Care Proxy,0.014001378789544106
+1447,GCS - Verbal Response,0.01380166132003069
+2896,Ventilator Tank #2,0.0137937031686306
+102,Calcium Gluconate,0.013649217784404755
+1522,Height (cm),0.013471309095621109
+1307,Difficulty swallowing,0.013329609297215939
+40,OR EBL,0.01322400663048029
+108,Cefazolin,0.01322323177009821
+944,Activity / Mobility (JH-HLM),0.013178402557969093
+2244,Potassium (whole blood),0.013120081275701523
+1395,Eye Care,0.013093885965645313
+1957,Mean Airway Pressure,0.012794540263712406
+28,Jackson Pratt #1,0.012684732675552368
+2049,O2 Saturation Pulseoxymetry Alarm - Low,0.01260350551456213
+2670,Strength L Leg,0.012331555597484112
+1393,Expiratory Ratio,0.011925271712243557
+631,Lymphocytes,0.01183568686246872
+2749,Temperature Celsius,0.011720051057636738
+2186,Paw High,0.01163977850228548
+1197,Central Venous Pressure Alarm - High,0.011551258154213428
+648,Metamyelocytes,0.011487993411719799
+2556,Riker-SAS Scale,0.011413774453103542
+877,20 Gauge Dressing Occlusive,0.011407837271690369
+773,Thyroid Stimulating Hormone,0.011386907659471035
+339,Absolute Eosinophil Count,0.011315223760902882
+273,Pantoprazole (Protonix),0.011308254674077034
+2033,Non-Invasive Blood Pressure Alarm - High,0.011260440573096275
+967,Albumin_y,0.011079991236329079
+2638,Sodium (whole blood),0.011003079824149609
+207,LR,0.010899702087044716
+729,RDW-SD,0.010675984434783459
+2790,Total PEEP Level,0.010620961897075176
+970,Alkaline Phosphate,0.0106183597818017
+2856,Unable to assess psychological,0.010497845709323883
+253,OR Cell Saver Intake,0.010328706353902817
+1949,Magnesium_y,0.010205857455730438
+355,Alveolar-arterial Gradient,0.0101197250187397
+2826,Troponin-T,0.009920252487063408
+2794,Trach Care,0.009867355227470398
+2779,Tidal Volume (spontaneous),0.009677120484411716
+183,Hydromorphone (Dilaudid),0.009462541900575161
+309,Sterile Water,0.009414447471499443
+1045,Arterial Line placed in outside facility,0.009317228570580482
+1531,Hemoglobin_y,0.00929489079862833
+682,Oxygen,0.009287471882998943
+472,"Creatine Kinase, MB Isoenzyme",0.009115339256823063
+94,Azithromycin,0.009114105254411697
+2509,Recreational drug use,0.008706625550985336
+2669,Strength L Arm,0.008683405816555023
+1345,ETOH,0.008681343868374825
+2527,Respiratory Rate (spontaneous),0.008614180609583855
+109,Cefepime,0.008575288578867912
+74,Acetaminophen-IV,0.008474458009004593
+884,22 Gauge Dressing Occlusive,0.008473164401948452
+2172,Parameters Checked,0.008471189998090267
+2123,PEEP set,0.008387327194213867
+347,Albumin_x,0.008317147381603718
+2857,Unable to assess teaching / learning needs,0.008261575363576412
+664,Neutrophils,0.008101255632936954
+202,KCL (Bolus),0.008101153187453747
+1579,IV/Saline lock,0.00808295514434576
+2034,Non-Invasive Blood Pressure Alarm - Low,0.008061756379902363
+2816,Tremor (CIWA),0.007892743684351444
+910,ART BP Systolic,0.007808175403624773
+13,Condom Cath,0.00779587822034955
+634,MCH,0.00766350282356143
+2853,Unable to assess habits,0.00755993602797389
+47,PACU Urine,0.007525670807808638
+1040,Arterial CO2 Pressure,0.007441140711307526
+1741,Impaired Skin Width #1,0.007359703071415424
+1276,Current Used/mA,0.007197861094027758
+2768,Temporary Venticular Stim Threshold mA,0.007112368009984493
+1442,Fspn High,0.007102089002728462
+613,L,0.006999666336923838
+377,Asparate Aminotransferase (AST),0.006979592610150576
+2134,PICC Line Power PICC,0.006947427522391081
+1539,Home TF,0.006903153378516436
+2519,Resp Alarm - High,0.006867702584713697
+836,WBC_x,0.0067969197407364845
+2100,PAR-Circulation,0.00678875669836998
+1900,Intravenous  / IV access prior to admission,0.006698775105178356
+2655,Spont Vt,0.006686147768050432
+346,Alanine Aminotransferase (ALT),0.006671116687357426
+7,Cerebral Ventricular #1,0.006650526076555252
+340,Absolute Lymphocyte Count,0.006640900392085314
+767,Temperature,0.0065321833826601505
+4,Cath Lab,0.006451804656535387
+216,Lorazepam (Ativan),0.006385166198015213
+2890,Venous CO2 Pressure,0.006338657345622778
+471,Creatine Kinase (CK),0.006303094793111086
+1967,Mental status,0.006286280229687691
+1305,Differential-Monos,0.00610236544162035
+1980,Minute Volume Alarm - Low,0.006083113141357899
+1413,Fibrinogen,0.006054827477782965
+625,Lipase_x,0.00596791272982955
+1934,Lipase_y,0.0059654731303453445
+2591,Self ADL,0.005944841541349888
+2870,Unintentional weight loss >10 lbs.,0.005907576531171799
+758,"Sodium, Whole Blood",0.0058487760834395885
+88,Ampicillin,0.005845684092491865
+2895,Ventilator Tank #1,0.00582590838894248
+683,Oxygen Saturation,0.005825194530189037
+1517,Heart Rate Alarm - Low,0.005750270560383797
+759,Specific Gravity,0.0055144126527011395
+115,Cisatracurium,0.0054594106040894985
+1069,Baseline pain level,0.00542424013838172
+1127,CK-MB,0.005357395391911268
+2310,Pressure Ulcer Stage #1,0.00520060071721673
+1304,Differential-Lymphs,0.005160227417945862
+107,Cath Lab Intake,0.005146876908838749
+2101,PAR-Consciousness,0.0051430873572826385
+1192,Cardiac Output (thermodilution),0.005132507067173719
+1521,Height,0.005107578821480274
+915,AST,0.005106935743242502
+1306,Differential-Neuts,0.005078174639493227
+1744,Impaired Skin Width #3,0.004982090555131435
+1084,Bladder Scan Estimate,0.0049453116953372955
+2060,Orientation to Place,0.004924986977130175
+1480,Gait/Transferring,0.004879676271229982
+1194,Central Venous O2% Sat,0.004847976844757795
+1035,Arterial Blood Pressure Alarm - High,0.004794119391590357
+167,Furosemide (Lasix) 250/50,0.004781263414770365
+590,I,0.004716286901384592
+127,Dexmedetomidine (Precedex),0.004699699580669403
+171,Gentamicin_x,0.004635938908904791
+1536,High risk (>51) interventions,0.004535246174782515
+244,Nicardipine 40mg/200,0.004481606185436249
+995,Ambulatory aid,0.004438437521457672
+1296,Dialysis patient,0.004400919657200575
+265,PACU Crystalloid Intake,0.0043884883634746075
+1271,Cuff Pressure,0.004195517394691706
+76,Acyclovir,0.004192965570837259
+477,"Creatinine, Urine",0.004183508455753326
+1301,Differential-Bands,0.004130958113819361
+151,Esmolol,0.0041261580772697926
+591,INR(PT),0.004110479727387428
+43,Ostomy (output),0.00405889144167304
+2891,Venous O2 Pressure,0.004049239680171013
+2707,SvO2,0.0040360065177083015
+218,Magnesium Sulfate (Bolus),0.004014063626527786
+2872,Uric Acid_y,0.004010338801890612
+814,"Urea Nitrogen, Urine",0.003941199742257595
+397,"Bilirubin, Total",0.0038689556531608105
+540,H,0.003864968428388238
+1075,BiPap IPAP,0.003803681582212448
+137,Diltiazem,0.003742270404472947
+85,Amiodarone,0.0037039367016404867
+1317,Discharge needs,0.003630273509770632
+1430,Flow Rate (L/min),0.0036267798859626055
+1454,GI #1 Tube Mark (CM),0.003607627237215638
+1014,Anxiety,0.0036043431609869003
+657,Monocytes,0.003553591435775161
+2885,Vancomycin (Random),0.003545752726495266
+381,Bands,0.003532739821821451
+2096,PAEDP,0.003515759715810418
+2907,Vti High,0.003512550378218293
+1979,Minute Volume Alarm - High,0.0033796539064496756
+1661,Impaired Skin Depth #1,0.0032530773896723986
+587,Hyaline Casts,0.003248410765081644
+659,Myelocytes,0.0031913931015878916
+170,Gastric Meds,0.0031809539068490267
+1126,CK (CPK),0.0031257576774805784
+1943,MDI #1 Puff,0.003100388450548053
+2888,Vaulables Checklist,0.0030983162578195333
+2099,PAR-Activity,0.0030975076369941235
+1380,Epidural Infusion Rate (mL/hr),0.003096061060205102
+2766,Temporary Pacemaker Wires Venticular,0.0030946501065045595
+2667,Stool Guaiac QC,0.003082008333876729
+281,Phenylephrine (50/250),0.0030005245935171843
+176,Haloperidol (Haldol),0.0029014330357313156
+713,Protein,0.0028784850146621466
+515,Ferritin,0.002810769947245717
+2110,PCA basal rate (mL/hour),0.0026800099294632673
+2685,Subglottal Suctioning,0.002677986631169915
+29,Jackson Pratt #2,0.0026670193765312433
+955,Acuity Workload Question 2,0.0026556106749922037
+287,Potassium Chloride,0.002628717105835676
+326,Vitamin K (Phytonadione),0.002617758698761463
+1404,Feeding Weight,0.0025627282448112965
+2855,Unable to assess pain,0.0025326539762318134
+313,Thiamine,0.00244968687184155
+168,GT Flush,0.002447515958920121
+674,"Osmolality, Measured",0.0024295386392623186
+737,Required O2,0.002392678754404187
+1902,Ionized Calcium,0.002341782208532095
+1574,INR,0.0023300598841160536
+112,Ceftriaxone,0.0022771127987653017
+1981,Mixed Venous O2% Sat,0.002266881987452507
+1926,Legal Guardian,0.002172913635149598
+604,Iron,0.002170453080907464
+1910,LDL calculated,0.0021268525160849094
+1078,BiPap O2 Flow,0.002112247049808502
+0,gender,0.002105619991198182
+231,Multivitamins,0.00209854356944561
+2265,Pressure Ulcer #1- Width,0.002088672248646617
+2671,Strength R Arm,0.0020575167145580053
+1124,CHG Bath,0.001995593076571822
+222,Meropenem,0.0019738071132451296
+1875,Indwelling Port (PortaCath) placed in outside facility,0.001920844428241253
+495,Epithelial Cells,0.0019053688738495111
+2095,PA Line cm Mark,0.0019016131991520524
+360,Amylase_x,0.0018928509671241045
+208,Labetalol,0.0018734870245680213
+846,eAG,0.0018709664000198245
+1110,CAM-ICU Disorganized thinking,0.0018613151041790843
+2585,See chart for initial patient assessment,0.001834833761677146
+1263,Cough/Deep Breath,0.001816876232624054
+2052,"OCAT - Saliva secretions, Voice quality",0.0017560599371790886
+89,Ampicillin/Sulbactam (Unasyn),0.0017542336136102676
+61,Straight Cath,0.0017410675063729286
+1873,Indwelling Port (PortaCath) Power Port,0.001738067134283483
+675,"Osmolality, Urine",0.001675900537520647
+942,Activated Clotting Time,0.0016666814917698503
+2324,Pressure ulcer #1- Length,0.0016497726319357753
+1046,Arterial O2 Saturation,0.001607067883014679
+2312,Pressure Ulcer Stage #2,0.001586621394380927
+2566,ST Segment Monitoring On,0.0015698621282353997
+225,Metronidazole,0.0015426402678713202
+64,Suprapubic,0.0014498271048069
+2103,PAR-Remain sedated,0.0014469452435150743
+1133,CO2 production,0.0014450697926804423
+145,Epinephrine,0.0014422767562791705
+2059,Orientation to Person,0.001434452598914504
+1099,Brain Natiuretic Peptide (BNP),0.0014161133440211415
+21,GU Irrigant/Urine Volume Out,0.0014022309333086014
+306,Sodium Bicarbonate 8.4%,0.0013891990529373288
+246,Nitroprusside,0.0013838240411132574
+1376,Emotional / physical / sexual harm by partner or close relation,0.0013736700639128685
+386,Basophils,0.001329851453192532
+1274,Current Dyspnea Assessment,0.0013174769701436162
+2854,Unable to assess nutrition / education,0.0012822685530409217
+181,Hydralazine,0.0012783403508365154
+940,Access Pressure,0.001277203089557588
+782,"Total Nucleated Cells, Other",0.0012673184974119067
+1537,History of falling (within 3 mnths),0.0012450331123545766
+1894,Intra Cranial Pressure,0.0012341018300503492
+39,Nasogastric,0.001210381742566824
+54,R Nephrostomy,0.0012009360361844301
+2138,PO2 (Mixed Venous),0.001195652293972671
+537,Granular Casts,0.001180191058665514
+2612,Shivering Assessment,0.0011592032387852669
+887,22 Gauge placed in outside facility,0.001148187555372715
+1898,Intra Cranial Pressure Alarm - High,0.0011477525113150477
+658,Monos,0.001144704525358975
+1538,History of slips / falls,0.0011419682996347547
+2722,TCO2 (calc) Venous,0.001125385402701795
+2461,RCexp (Measured Time Constant),0.0011236063437536359
+25,Ileoconduit,0.001120661268942058
+1138,CPOT-Body Movements (CPOTb),0.001107606920413673
+1474,GI Guaiac QC,0.0010962866945192218
+1044,Arterial Line Zero/Calibrate,0.0010891887359321117
+738,"Reticulocyte Count, Absolute",0.0010844580829143524
+2582,Secondary diagnosis,0.0010835037101060152
+20,GU Irrigant Volume In,0.0010680158156901598
+407,C-Reactive Protein,0.001046746619977057
+966,Alarms On,0.001044433331117034
+829,Vancomycin_y,0.001042317715473473
+2047,O2 Flow (additional cannula),0.0010092640295624733
+2274,Pressure Ulcer #2- Width,0.0009583558421581984
+1302,Differential-Basos,0.0009568605455569923
+757,"Sodium, Urine",0.0009521300671622157
+320,Vancomycin_x,0.0009318954544141889
+307,Sodium Bicarbonate 8.4% (Amp),0.0009280110243707895
+1128,CK-MB fraction (%),0.0009211822180077434
+234,NaCl 0.45%,0.0008959129918366671
+1146,CPOT-Vocalization (CPOTb),0.0008952739299274981
+16,Emesis,0.0008915440994314849
+1180,Called Out,0.0008907918818295002
+595,Immunoglobulin A,0.0008869346347637475
+33,L Nephrostomy,0.0008828511345200241
+706,"Potassium, Urine",0.0008787540718913078
+935,Absolute Count - Eos,0.0008697369485162199
+2126,PH (dipstick),0.0008666408830322325
+2906,Volume Out (PD),0.0008565752650611103
+166,Furosemide (Lasix),0.0008399662910960615
+704,Polys,0.0008375143515877426
+776,Tidal Volume,0.0008139372803270817
+633,Lymphs,0.0008124052546918392
+1308,Digoxin_y,0.0008019632659852505
+1350,ETT Re-taped,0.000799738394562155
+2778,Tidal Volume (set),0.0007850989932194352
+1993,Multi Lumen Dressing Occlusive,0.0007704035378992558
+118,Clindamycin,0.0007681716815568507
+311,TPN without Lipids,0.0007587266154587269
+1087,Blood Temperature CCO (C),0.0007320306031033397
+257,OR FFP Intake,0.0007269070483744144
+787,"Total Protein, Pleural",0.00070434738881886
+396,"Bilirubin, Indirect",0.0006937173311598599
+937,Absolute Count - Monos,0.0006675617187283933
+2851,Unable to assess activity / mobility,0.0006529234815388918
+60,Stool,0.0006484584300778806
+136,Dilantin,0.0005993874510750175
+228,Milrinone,0.0005967934266664088
+692,Phenytoin,0.0005921321571804583
+1214,Chloride (whole blood),0.0005752823199145496
+155,Famotidine (Pepcid),0.0005689470563083887
+911,ART Blood Pressure Alarm - High,0.0005647856742143631
+42,Oral Gastric,0.0005646963836625218
+79,Albumin 5%,0.0005557735566981137
+329,% Hemoglobin A1c,0.0005387822748161852
+2646,Specific Gravity (urine),0.0005288070533424616
+1137,CPOT-Body Movements (CPOTa),0.0005220011807978153
+908,ART BP Diastolic,0.0005218479782342911
+1088,Blood Transfusion Consent,0.0005123598384670913
+134,Diazepam (Valium),0.0005056075169704854
+236,NaCl 23.4%,0.0004953190218657255
+342,Absolute Neutrophil Count_x,0.0004944001557305455
+1950,Manual Blood Pressure Diastolic Left,0.0004893015720881522
+482,D-Dimer_x,0.00048373278696089983
+441,CK-MB Index,0.0004764047625940293
+121,Cryoprecipitate,0.00047233610530383885
+745,STX3,0.00047025614185258746
+685,PEEP,0.0004569939337670803
+592,Immature Granulocytes,0.00043803983135148883
+138,Dobutamine,0.0004240240959916264
+271,Packed Red Blood Cells,0.00042357074562460184
+305,Rocuronium,0.0004234251391608268
+191,Insulin - Humalog,0.0004153424524702132
+150,Erythromycin,0.0004026374372188002
+938,Absolute Count - Neuts,0.00038793394924141467
+260,Octreotide,0.00038376354495994747
+881,20 Gauge placed in the field,0.00037747921305708587
+2261,Pressure Ulcer #1- Depth,0.0003697833453770727
+284,Piperacillin/Tazobactam (Zosyn),0.0003558230528142303
+66,TF Residual,0.0003508146037347615
+1030,Arctic Sun/Alsius Temp #1 C,0.00032779944012872875
+1402,Family Meeting,0.00032404789817519486
+335,Absolute Basophil Count,0.00032038617064245045
+1031,Arctic Sun/Alsius Temp #2 C,0.0003157394821755588
+1028,Arctic Sun Water Temp,0.00030567217618227005
+2000,Multi Lumen placed in outside facility,0.0002989692147821188
+1112,CAM-ICU MS Change,0.00029145661392249167
+494,Eosinophils,0.00029025040566921234
+866,16 Gauge placed in outside facility,0.0002878747181966901
+2228,Pminimum,0.00028299790574237704
+86,Amiodarone 450/250,0.0002731561253312975
+212,Lidocaine,0.00025932182325050235
+96,Bactrim (SMX/TMP),0.0002547908516135067
+210,Levetiracetam (Keppra),0.00022976528271101415
+2251,Presep Catheter Dressing Occlusive,0.0002227572986157611
+395,"Bilirubin, Direct",0.0002088486508000642
+10,Chest Tube #2,0.00020497084187809378
+1061,BIS Index Range,0.00019804827752523124
+557,Haptoglobin,0.00019404433260206133
+211,Levofloxacin,0.0001936508488142863
+1525,Hematocrit (whole blood - calc),0.00019283195433672518
+2439,Pulmonary Artery Pressure diastolic,0.00018409201584290713
+140,Doxycycline,0.00017601621220819652
+91,Argatroban,0.00016823882469907403
+1309,Direct Bilirubin,0.0001656607782933861
+70,Wound Vac #1,0.0001644474541535601
+101,Calcium Chloride,0.0001608364109415561
+874,18 Gauge placed in the field,0.0001448889379389584
+2852,Unable to assess cognitive / perceptual,0.0001380731991957873
+2058,Orientation,0.00012964352208655328
+5,Cerebral Subdural #1,0.00011548845213837922
+1064,Back Care,0.00011048909072997048
+114,Ciprofloxacin,6.0382619267329574e-05
+129,Dextrose 10%,4.9598751502344385e-05
+2089,PA Catheter Line Tip Cultured,0.0
+2087,PA Catheter Discontinued,0.0
+1703,Impaired Skin Odor #2,0.0
+2044,Nutrition NCP - Body needs,0.0
+2084,P1 Alarm - High,0.0
+1712,Impaired Skin Site #10,0.0
+2085,P1 Alarm - Low,0.0
+1704,Impaired Skin Odor #3,0.0
+2086,P2 (ECMO),0.0
+2045,O2 Delivery Device(s),0.0
+1710,Impaired Skin Odor #9,0.0
+2029,No Pressure Injury Present,0.0
+1711,Impaired Skin Site #1,0.0
+2026,Neurological Symptoms,0.0
+2043,Nutrition  NCP - outcomes met,0.0
+1695,Impaired Skin Length #4,0.0
+2090,PA Catheter Placement Confirmed by X-ray,0.0
+1709,Impaired Skin Odor #8,0.0
+1694,Impaired Skin Length #3,0.0
+2028,Nitric Oxide Tank Pressure,0.0
+2088,PA Catheter Dressing Occlusive,0.0
+2041,Nutrition  NCP - Plan revised,0.0
+2027,Nitric Oxide,0.0
+2056,Oral Cavity,0.0
+1708,Impaired Skin Odor #7,0.0
+2036,Non-Violent Restraints Ordered,0.0
+2035,Non-Violent Restraints,0.0
+2039,Nutrition  NCP - Goal,0.0
+2066,Orthostatic BPs sitting,0.0
+2053,OCAT - Swallow,0.0
+2065,Orthostatic BPs lying,0.0
+2064,Orthostatic BPd standing,0.0
+1696,Impaired Skin Length #5,0.0
+2063,Orthostatic BPd sitting,0.0
+2062,Orthostatic BPd lying,0.0
+2054,OCAT - Teeth,0.0
+2068,Orthostatic HR lying,0.0
+1697,Impaired Skin Length #6,0.0
+1706,Impaired Skin Odor #5,0.0
+2037,Nutrition,0.0
+2057,Orient/Clouding Sensory,0.0
+1698,Impaired Skin Length #7,0.0
+1699,Impaired Skin Length #8,0.0
+2055,Oral Care,0.0
+1700,Impaired Skin Length #9,0.0
+2038,Nutrition  NCP - Expected outcomes,0.0
+2067,Orthostatic BPs standing,0.0
+2042,Nutrition  NCP - Problem resolved,0.0
+2083,P1 - P2 (ECMO),0.0
+2076,Oxygenator Sweep Rate,0.0
+2082,P1 (ECMO),0.0
+2081,P Low (APRV),0.0
+2080,P High (APRV),0.0
+2048,O2 Saturation Pulseoxymetry Alarm - High,0.0
+2079,Oxygenator/ECMO,0.0
+1702,Impaired Skin Odor #10,0.0
+2078,Oxygenator visible (ECMO),0.0
+2077,Oxygenator visible (CH),0.0
+1701,Impaired Skin Odor #1,0.0
+1707,Impaired Skin Odor #6,0.0
+2040,Nutrition  NCP - Interventions,0.0
+2075,OxygenScore_ApacheIV,0.0
+2074,OxygenApacheIIScore,0.0
+2073,Ostomy Care,0.0
+2072,Ostomy Appearance,0.0
+2071,Ostomy,0.0
+2051,OCAT - Lips Tongue Gums Palate,0.0
+2070,Orthostatic HR standing,0.0
+2069,Orthostatic HR sitting,0.0
+1705,Impaired Skin Odor #4,0.0
+1805,Incision #7- Location,0.0
+1684,Impaired Skin Drainage Amount #3,0.0
+2091,PA Catheter Site Appear,0.0
+1652,Impaired Skin Cleanse #10,0.0
+2159,Pain NCP - Expected outcomes,0.0
+2158,Pain Management,0.0
+2157,Pain Location,0.0
+2155,Pain Level Acceptable,0.0
+1653,Impaired Skin Cleanse #2,0.0
+1654,Impaired Skin Cleanse #3,0.0
+1655,Impaired Skin Cleanse #4,0.0
+2153,Pain Controlled,0.0
+1656,Impaired Skin Cleanse #5,0.0
+2152,Pain Control,0.0
+2151,Pain Cause,0.0
+1657,Impaired Skin Cleanse #6,0.0
+1658,Impaired Skin Cleanse #7,0.0
+1659,Impaired Skin Cleanse #8,0.0
+1660,Impaired Skin Cleanse #9,0.0
+2150,Pain Assessment Method,0.0
+2149,Pad Change/Hour,0.0
+1662,Impaired Skin Depth #10,0.0
+1663,Impaired Skin Depth #2,0.0
+1664,Impaired Skin Depth #3,0.0
+1665,Impaired Skin Depth #4,0.0
+1666,Impaired Skin Depth #5,0.0
+2147,PT Splint Status #4,0.0
+1667,Impaired Skin Depth #6,0.0
+2146,PT Splint Status #3,0.0
+2145,PT Splint Status #2,0.0
+2144,PT Splint Status #1,0.0
+2160,Pain NCP - Goal,0.0
+2161,Pain NCP - Interventions,0.0
+2142,PT Splint Location #3,0.0
+2162,Pain NCP - Outcomes met,0.0
+1646,Impaired Skin #9- Dressing Status,0.0
+2184,Patient/Family Informed_V1,0.0
+1647,Impaired Skin #9- Location,0.0
+2183,Patient/Family Informed,0.0
+2182,Patient on Veletri,0.0
+2181,Patient Behavior During Application,0.0
+2180,Past medical history,0.0
+2179,Passive Leg Raise Performed,0.0
+2178,Passey Muir Valve in use,0.0
+2177,Part Alarm (Hi) (CH),0.0
+2176,Part 2 Question,0.0
+2175,Part 1 Question,0.0
+2174,Part (CH),0.0
+2173,Paroxysmal Sweats,0.0
+2171,Palliative Care NCP - Problem resolved,0.0
+2170,Palliative Care NCP - Plan revised,0.0
+1648,Impaired Skin #9- Treatment,0.0
+2169,Palliative Care NCP - Interventions,0.0
+1649,Impaired Skin #9- Type,0.0
+2168,Palliative Care NCP - Expected outcomes,0.0
+2167,Pain control old,0.0
+1650,Impaired Skin - Dressing Status  #4,0.0
+2166,Pain Type,0.0
+2165,Pain Present,0.0
+1651,Impaired Skin Cleanse #1,0.0
+2164,Pain NCP - Problem resolved,0.0
+2163,Pain NCP - Plan revised,0.0
+2143,PT Splint Location #4,0.0
+2141,PT Splint Location #2,0.0
+1693,Impaired Skin Length #2,0.0
+2115,PCA dose,0.0
+2113,PCA cleared,0.0
+2112,PCA bolus units,0.0
+1680,Impaired Skin Drainage #9,0.0
+1681,Impaired Skin Drainage Amount #1,0.0
+1682,Impaired Skin Drainage Amount #10,0.0
+1683,Impaired Skin Drainage Amount #2,0.0
+2024,Neuro Symptoms,0.0
+1685,Impaired Skin Drainage Amount #4,0.0
+1686,Impaired Skin Drainage Amount #5,0.0
+2111,PCA bolus,0.0
+2109,PCA attempt,0.0
+1687,Impaired Skin Drainage Amount #6,0.0
+2108,PCA 1 hour limit units,0.0
+1688,Impaired Skin Drainage Amount #7,0.0
+2107,PCA 1 hour limit,0.0
+2106,PCA  dose units,0.0
+2105,PBP (Prefilter) Replacement Rate,0.0
+2104,PAR-Respiration,0.0
+1689,Impaired Skin Drainage Amount #8,0.0
+2102,PAR-Oxygen saturation,0.0
+1690,Impaired Skin Drainage Amount #9,0.0
+2098,PAP Alarm Source (Veletri),0.0
+2097,PAP Alarm Source,0.0
+1692,Impaired Skin Length #10,0.0
+2094,PA Catheter placed in outside facility,0.0
+2093,PA Catheter Zero/Calibrate,0.0
+2092,PA Catheter Waveform Appear,0.0
+2114,PCA concentrations,0.0
+2116,PCA inject,0.0
+2140,PT Splint Location #1,0.0
+2117,PCA lockout (min),0.0
+1668,Impaired Skin Depth #7,0.0
+1669,Impaired Skin Depth #8,0.0
+2137,PICC Line placed in outside facility,0.0
+2136,PICC Line Tip Cultured,0.0
+2135,PICC Line Site Appear,0.0
+1670,Impaired Skin Depth #9,0.0
+2133,PICC Line Placement Confirmed by X-ray,0.0
+2132,PICC Line Dressing Occlusive,0.0
+2131,PICC Line Discontinued,0.0
+2130,PICC Biopatch,0.0
+1671,Impaired Skin Drainage #1,0.0
+1672,Impaired Skin Drainage #10,0.0
+2129,PICC - Heparin Dependent,0.0
+2128,PHPaCO2Score_ApacheIV,0.0
+1673,Impaired Skin Drainage #2,0.0
+2127,PHApacheIIValue,0.0
+1674,Impaired Skin Drainage #3,0.0
+1675,Impaired Skin Drainage #4,0.0
+1676,Impaired Skin Drainage #5,0.0
+1677,Impaired Skin Drainage #6,0.0
+1678,Impaired Skin Drainage #7,0.0
+2122,PCWP,0.0
+2121,PCV Level,0.0
+2120,PCA total dose units,0.0
+2119,PCA total dose,0.0
+2118,PCA medication,0.0
+1679,Impaired Skin Drainage #8,0.0
+2025,Neurological,0.0
+2004,NMB Medication,0.0
+2023,Neuro Mon Line Type,0.0
+1777,In-line Suction Catheter Changed,0.0
+1781,Incision #1- Location,0.0
+1780,Incision #1- Dressing Status,0.0
+1874,Indwelling Port (PortaCath) Site Appear,0.0
+1779,Incision #1- Cleanse,0.0
+1876,Indwelling Urinary Catheter Care,0.0
+1778,Incentive Spirometry,0.0
+1776,Impella Postion Confirmed,0.0
+1870,Indwelling (PortaCath) Port #2,0.0
+1877,Infection NCP - Expected outcomes,0.0
+1775,Impella Position,0.0
+1878,Infection NCP - Goal,0.0
+1774,Impella Placement Confirmed,0.0
+1879,Infection NCP - Interventions,0.0
+1880,Infection NCP - Plan revised,0.0
+1871,Indwelling (PortaCath) Port Type,0.0
+1782,Incision #1- Treatment,0.0
+1760,Impaired Skin Wound Base #9,0.0
+1861,Incision Packing #3,0.0
+1857,Incision Dressing #5,0.0
+1858,Incision Dressing #6,0.0
+1859,Incision Packing #1,0.0
+1784,Incision #2- Dressing Status,0.0
+1860,Incision Packing #2,0.0
+1783,Incision #2- Cleanse,0.0
+1862,Incision Packing #4,0.0
+1869,Indwelling (PortaCath) Port #1,0.0
+1863,Incision Site #1,0.0
+1864,Incision Site #2,0.0
+1865,Incision Site #3,0.0
+1866,Incision Site #4,0.0
+1867,Incision Site #5,0.0
+1868,Incision Site #6,0.0
+1881,Infection NCP - Problem resolved,0.0
+1882,Infection NCP - outcomes met,0.0
+1883,Infusate Drops/Minute,0.0
+1907,Knee Location - Immobilizer,0.0
+1767,Impella Catheter Position,0.0
+1904,Judgement,0.0
+1766,Impaired Tissue Perfusion NCP - Problem resolved,0.0
+1905,Knee Immobilizer Status,0.0
+1906,Knee Location - CPM,0.0
+1765,Impaired Tissue Perfusion NCP - Plan revised,0.0
+1764,Impaired Tissue Perfusion NCP - Outcomes met,0.0
+1773,Impella Line Type,0.0
+1908,Known difficult intubation,0.0
+1763,Impaired Tissue Perfusion NCP - Interventions,0.0
+1762,Impaired Tissue Perfusion NCP - Goal,0.0
+1911,LDL measured,0.0
+1912,LL Strength/Movement,0.0
+1761,Impaired Tissue Perfusion NCP - Expected outcomes,0.0
+1901,Intubated_ApacheIV,0.0
+1768,Impella Catheter Repositioned,0.0
+1899,Intra Cranial Pressure Alarm - Low,0.0
+1897,Intra Cranial Pressure #2 Alarm - Low,0.0
+1896,Intra Cranial Pressure #2 Alarm - High,0.0
+1895,Intra Cranial Pressure #2,0.0
+1893,Intra Aortic Balloon Pump Setting,0.0
+1892,Intra Aortic Ballon Pump Setting,0.0
+1891,Interpreter,0.0
+1769,Impella Catheter Site,0.0
+1890,Insulin pump,0.0
+1770,Impella Dressing Occlusive,0.0
+1771,Impella Line Discontinued,0.0
+1772,Impella Line Site Appear,0.0
+1886,Inspiratory Ratio,0.0
+1885,Insomnia,0.0
+1884,Infusion Pressure of Line,0.0
+1856,Incision Dressing #4,0.0
+1855,Incision Dressing #3,0.0
+1854,Incision Dressing #2,0.0
+1821,Incision Cleansing #1,0.0
+1817,Incision Appearance #6,0.0
+1818,Incision Appearance #7,0.0
+1797,Incision #5- Location,0.0
+1819,Incision Appearance #8,0.0
+1820,Incision Appearance #9,0.0
+1796,Incision #5- Dressing Status,0.0
+1822,Incision Cleansing #2,0.0
+1791,Incision #4- Cleanse,0.0
+1795,Incision #5- Cleanse,0.0
+1823,Incision Cleansing #3,0.0
+1824,Incision Cleansing #4,0.0
+1794,Incision #4- Treatment,0.0
+1793,Incision #4- Location,0.0
+1792,Incision #4- Dressing Status,0.0
+1798,Incision #5- Treatment,0.0
+1799,Incision #6- Cleanse,0.0
+1800,Incision #6- Dressing Status,0.0
+1801,Incision #6- Location,0.0
+1816,Incision Appearance #5,0.0
+1815,Incision Appearance #4,0.0
+1814,Incision Appearance #3,0.0
+1813,Incision Appearance #2,0.0
+1802,Incision #6- Treatment,0.0
+1812,Incision Appearance #1,0.0
+1811,Incision #9- Treatment,0.0
+1803,Incision #7- Cleanse,0.0
+1810,Incision #9- Location,0.0
+1809,Incision #9- Dressing Status,0.0
+1808,Incision #8- Treatment,0.0
+1804,Incision #7- Dressing Status,0.0
+1807,Incision #8- Location,0.0
+1825,Incision Cleansing #5,0.0
+1790,Incision #3- Treatment,0.0
+1785,Incision #2- Location,0.0
+1847,Incision Drainage Amount #4,0.0
+1843,Incision Drainage #9,0.0
+1788,Incision #3- Dressing Status,0.0
+1787,Incision #3- Cleanse,0.0
+1844,Incision Drainage Amount #1,0.0
+1845,Incision Drainage Amount #2,0.0
+1846,Incision Drainage Amount #3,0.0
+1786,Incision #2- Treatment,0.0
+1826,Incision Closure #1,0.0
+1848,Incision Drainage Amount #5,0.0
+1849,Incision Drainage Amount #6,0.0
+1850,Incision Drainage Amount #7,0.0
+1851,Incision Drainage Amount #8,0.0
+1852,Incision Drainage Amount #9,0.0
+1853,Incision Dressing #1,0.0
+1842,Incision Drainage #8,0.0
+1841,Incision Drainage #7,0.0
+1840,Incision Drainage #6,0.0
+1839,Incision Drainage #5,0.0
+1838,Incision Drainage #4,0.0
+1837,Incision Drainage #3,0.0
+1836,Incision Drainage #2,0.0
+1789,Incision #3- Location,0.0
+1835,Incision Drainage #1,0.0
+1834,Incision Closure #9,0.0
+1833,Incision Closure #8,0.0
+1832,Incision Closure #7,0.0
+1831,Incision Closure #6,0.0
+1830,Incision Closure #5,0.0
+1829,Incision Closure #4,0.0
+1828,Incision Closure #3,0.0
+1827,Incision Closure #2,0.0
+1913,LLE Color,0.0
+1914,LLE Sensation,0.0
+2022,Neuro Drain Landmark,0.0
+1989,Motor L Leg,0.0
+1984,Motor Current (mA) High (R),0.0
+1985,Motor Current (mA) Low,0.0
+1725,Impaired Skin Treatment #4,0.0
+1986,Motor Current (mA) Low (R),0.0
+1987,Motor Deficit,0.0
+1988,Motor L Arm,0.0
+1990,Motor R Arm,0.0
+1982,Mobilization Plan,0.0
+1991,Motor R Leg,0.0
+1992,Multi Lumen - Obturator in place,0.0
+1724,Impaired Skin Treatment #3,0.0
+1723,Impaired Skin Treatment #2,0.0
+1994,Multi Lumen Line Discontinued,0.0
+1995,Multi Lumen Line Tip Cultured,0.0
+1983,Motor Current (mA) High,0.0
+1726,Impaired Skin Treatment #5,0.0
+1915,LLE Temp,0.0
+1733,Impaired Skin Type #2,0.0
+1734,Impaired Skin Type #3,0.0
+1971,Metabolic disturbance NCP - Problem resolved,0.0
+1972,Midline Discontinued,0.0
+1973,Midline Dressing Occlusive,0.0
+1974,Midline Placement Confirmed by X-ray,0.0
+1975,Midline Site Appear,0.0
+1976,Midline Tip Cultured,0.0
+1727,Impaired Skin Treatment #6,0.0
+1732,Impaired Skin Type #10,0.0
+1731,Impaired Skin Type #1,0.0
+1730,Impaired Skin Treatment #9,0.0
+1977,Midline placed in outside facility,0.0
+1729,Impaired Skin Treatment #8,0.0
+1728,Impaired Skin Treatment #7,0.0
+1996,Multi Lumen Placement Confirmed by X-ray,0.0
+1997,Multi Lumen Site Appear,0.0
+1722,Impaired Skin Treatment #10,0.0
+1715,Impaired Skin Site #4,0.0
+2011,Nerve Stimulated,0.0
+2012,Neuro Drain #1 Drainage,0.0
+2013,Neuro Drain #1 Landmark,0.0
+2014,Neuro Drain #1 Level,0.0
+2015,Neuro Drain #1 Status,0.0
+2016,Neuro Drain #1 Type,0.0
+2017,Neuro Drain #2 Drainage,0.0
+1998,Multi Lumen Waveform Appear,0.0
+2018,Neuro Drain #2 Landmark,0.0
+1714,Impaired Skin Site #3,0.0
+2019,Neuro Drain #2 Level,0.0
+2020,Neuro Drain #2 Status,0.0
+2021,Neuro Drain #2 Type,0.0
+1713,Impaired Skin Site #2,0.0
+1716,Impaired Skin Site #5,0.0
+1717,Impaired Skin Site #6,0.0
+2010,Negative Insp. Force,0.0
+1718,Impaired Skin Site #7,0.0
+1719,Impaired Skin Site #8,0.0
+2009,Nausea and Vomiting (CIWA),0.0
+2008,Nausea and Vomiting (CINA),0.0
+1720,Impaired Skin Site #9,0.0
+2007,Nasal Congestion,0.0
+2006,Nares R,0.0
+2005,Nares L,0.0
+1721,Impaired Skin Treatment #1,0.0
+1806,Incision #7- Treatment,0.0
+2003,NIV Mask,0.0
+2002,NBP Alarm Source,0.0
+2001,Muscle Aches,0.0
+1999,Multi Lumen Zero/Calibrate,0.0
+1970,Metabolic disturbance NCP - Plan revised,0.0
+1969,Metabolic disturbance NCP - Interventions,0.0
+1968,Metabolic disturbance NCP - Expected outcomes,0.0
+1938,Low Flow Alarm (HeartWare),0.0
+1756,Impaired Skin Wound Base #5,0.0
+1932,Line Type,0.0
+1933,Lines/Tubes,0.0
+1935,Living situation,0.0
+1936,Lochia Character,0.0
+1937,Lochia Estimate,0.0
+1755,Impaired Skin Wound Base #4,0.0
+1940,Low risk (25-50) interventions,0.0
+1754,Impaired Skin Wound Base #3,0.0
+1753,Impaired Skin Wound Base #2,0.0
+1752,Impaired Skin Wound Base #10,0.0
+1751,Impaired Skin Wound Base #1,0.0
+1750,Impaired Skin Width #9,0.0
+1749,Impaired Skin Width #8,0.0
+1931,Level of Consciousness,0.0
+1930,Less Restrictive Measures_V1,0.0
+1929,Less Restrictive Measures (Behavioral),0.0
+1928,Less Restrictive Measures (Acute Med/Surgical),0.0
+1927,Less Restrictive Measures,0.0
+1925,Leg Raise Result (NICOM),0.0
+1757,Impaired Skin Wound Base #6,0.0
+1924,Left Ventricular Assit Device Flow,0.0
+1758,Impaired Skin Wound Base #7,0.0
+1922,Lacrimation,0.0
+1921,LUL Lung Sounds,0.0
+1920,LUE Temp,0.0
+1919,LUE Sensation,0.0
+1918,LUE Color,0.0
+1917,LU Strength/Movement,0.0
+1759,Impaired Skin Wound Base #8,0.0
+1916,LLL Lung Sounds,0.0
+1939,Low Flow Alarm (VAD),0.0
+1941,MAP_ApacheIV,0.0
+1735,Impaired Skin Type #4,0.0
+1963,Medication Added Units #1 (Peritoneal Dialysis),0.0
+1743,Impaired Skin Width #2,0.0
+1742,Impaired Skin Width #10,0.0
+1960,Medication Added #2 (Peritoneal Dialysis),0.0
+1961,Medication Added Amount  #1 (Peritoneal Dialysis),0.0
+1962,Medication Added Amount  #2 (Peritoneal Dialysis),0.0
+1740,Impaired Skin Type #9,0.0
+1739,Impaired Skin Type #8,0.0
+1942,MDI #1 Drug,0.0
+1738,Impaired Skin Type #7,0.0
+1964,Medication Added Units #2 (Peritoneal Dialysis),0.0
+1965,Medication Bolus - Adjunctive Pain Management,0.0
+1737,Impaired Skin Type #6,0.0
+1736,Impaired Skin Type #5,0.0
+1966,Medication Infusion Rate - Adjunctive Pain Management,0.0
+1745,Impaired Skin Width #4,0.0
+1959,Medication Added #1 (Peritoneal Dialysis),0.0
+1958,Mean BP (VAD),0.0
+1956,MapScore_ApacheIV,0.0
+1955,MapApacheIIValue,0.0
+1954,MapApacheIIScore,0.0
+1953,Manual Blood Pressure Systolic Right,0.0
+1952,Manual Blood Pressure Systolic Left,0.0
+1951,Manual Blood Pressure Diastolic Right,0.0
+1948,MDnoteConsent,0.0
+1947,MDI #3 Puff,0.0
+1946,MDI #3 Drug,0.0
+1945,MDI #2 Puff,0.0
+1944,MDI #2 Drug,0.0
+1746,Impaired Skin Width #5,0.0
+1747,Impaired Skin Width #6,0.0
+1748,Impaired Skin Width #7,0.0
+2185,Patient/Family Informed_V2,0.0
+2322,Pressure ulcer #1- Drainage amount,0.0
+2187,PeCO2,0.0
+2676,Stroke NCP - Plan revised,0.0
+2652,Speed (VAD),0.0
+2653,Spiritual Support,0.0
+2654,Spont RR,0.0
+2656,Spontaneous Movement,0.0
+2657,Sputum Amount,0.0
+2658,Sputum Color,0.0
+2659,Sputum Consistency,0.0
+2660,Sputum Source,0.0
+2661,StO2,0.0
+2662,Status and Comfort,0.0
+2663,Status and Comfort (Behavioral),0.0
+2664,Stool Color,0.0
+2665,Stool Consistency,0.0
+2666,Stool Guaiac,0.0
+2668,Stool Management,0.0
+2673,Stroke NCP - Consults,0.0
+2674,Stroke NCP - Expected outcomes,0.0
+2651,Speed (RPM) (HeartWare),0.0
+2650,Speed (LVAD),0.0
+2649,Speed (ECMO),0.0
+2634,Small Volume Neb Drug #2,0.0
+2627,Skin Condition,0.0
+2628,Skin Integrity,0.0
+2629,Skin Temperature,0.0
+2630,Slope,0.0
+2631,Slurred Speech,0.0
+2632,Small Volume Neb Dose #2,0.0
+2633,Small Volume Neb Drug #1,0.0
+2635,Small Volume Neb Drug/Dose #1,0.0
+2648,Speed (CH),0.0
+2636,Social work consult,0.0
+2639,SodiumApacheIIScore,0.0
+2640,SodiumApacheIIValue,0.0
+2641,SodiumScore_ApacheIV,0.0
+2642,Sodium_ApacheIV,0.0
+2643,Solution (Peritoneal Dialysis),0.0
+2647,Speech,0.0
+2675,Stroke NCP - Interventions,0.0
+2677,Stroke NCP - Problem,0.0
+2719,T High (APRV),0.0
+2678,Stroke NCP - Problem resolved,0.0
+2700,Surrounding Tissue #4,0.0
+2701,Surrounding Tissue #5,0.0
+2702,Surrounding Tissue #6,0.0
+2703,Surrounding Tissue #7,0.0
+2704,Surrounding Tissue #8,0.0
+2705,Surrounding Tissue #9,0.0
+2706,Sustained Nystagmus,0.0
+2708,SvO2 Alarm (Lo) (CH),0.0
+2709,SvO2 SQI,0.0
+2710,Swallow Eval,0.0
+2711,Sweating,0.0
+2712,Sweating (COWS),0.0
+2713,Sweep (CH),0.0
+2714,Sweep (ECMO),0.0
+2715,System Integrity,0.0
+2716,System controller in primary mode (VAD),0.0
+2717,System power module and self test (VAD),0.0
+2699,Surrounding Tissue #3,0.0
+2698,Surrounding Tissue #2,0.0
+2697,Surrounding Tissue #10,0.0
+2687,Substance withdrawal NCP - Interventions,0.0
+2679,Stroke NCP - Type,0.0
+2680,Stroke NCP - Water Swallow,0.0
+2681,Stroke NCP - Water Swallow Deferred,0.0
+2682,Stroke Volume (SV NICOM),0.0
+2683,Stroke Volume Index (SVI NICOM),0.0
+2684,Stroke Volume Variation (SVV NICOM),0.0
+2686,Substance withdrawal NCP - Expected outcomes,0.0
+2688,Substance withdrawal NCP - Plan revised,0.0
+2696,Surrounding Tissue #1,0.0
+2689,Substance withdrawal NCP - Problem resolved,0.0
+2690,Suction events (CH),0.0
+2691,Suction events (ECMO),0.0
+2692,Suction events (LVAD),0.0
+2693,Supine / Side-lying to Sit,0.0
+2694,Support Systems,0.0
+2695,Surgibra,0.0
+2626,Skin Color,0.0
+2625,Skin Care,0.0
+2624,Skeletal Traction #2 - Pounds,0.0
+2623,Skeletal Traction #1 - Pounds,0.0
+2560,RrApacheIIScore,0.0
+2561,Runny Nose/Tearing (COWS),0.0
+2562,SBT Deferred,0.0
+2563,SBT Started,0.0
+2564,SBT Stopped,0.0
+2565,SBT Successfully Completed,0.0
+2567,SV (Arterial),0.0
+2568,SVI (PiCCO),0.0
+2569,SVI Change,0.0
+2570,SVRI (PiCCO),0.0
+2571,SVV (Arterial),0.0
+2572,SVV (PiCCO),0.0
+2573,Safety Measures,0.0
+2574,Safety Restraints NCP - Expected outcomes,0.0
+2575,Safety Restraints NCP - Goal,0.0
+2576,Safety Restraints NCP - Interventions,0.0
+2577,Safety Restraints NCP - Outcomes met,0.0
+2559,Rounds included,0.0
+2558,Risk for Falls,0.0
+2557,Risk Factors for Pressure Injury,0.0
+2545,Restraint/Seclusion Observer Sheet,0.0
+2538,Restraint Device (Non-violent),0.0
+2539,Restraint Device (Violent),0.0
+2540,Restraint Location,0.0
+2541,Restraint Location_V1,0.0
+2542,Restraint Location_V2,0.0
+2543,Restraint Ordered (Non-violent),0.0
+2544,Restraint Type,0.0
+2546,Restraints (Violent),0.0
+2555,Right Ventricular Assist Device Flow,0.0
+2547,Restraints Evaluated,0.0
+2548,Restraints Evaluated_V1,0.0
+2549,Restraints Evaluated_V2,0.0
+2550,Restraints Ordered,0.0
+2551,Restraints Ordered (Violent),0.0
+2552,Return Pressure,0.0
+2553,Return Site Observed (Tandem Heart),0.0
+2578,Safety Restraints NCP - Plan revised,0.0
+2579,Safety Restraints NCP - Problem resolved,0.0
+2580,ScvO2 (Presep),0.0
+2614,Side  Rails,0.0
+2606,Sheath Size,0.0
+2607,Sheath Type,0.0
+2608,Sheath Waveform Appear,0.0
+2609,Sheath Zero/Calibrate,0.0
+2610,Sheath placed in outside facility,0.0
+2611,Shivering,0.0
+2613,Shoulder Shrug,0.0
+2615,Side Rails,0.0
+2604,Sheath Placement Confirmed by X-ray,0.0
+2616,Side Rails (Restraint),0.0
+2617,Side Rails_V1,0.0
+2618,Side Rails_V2,0.0
+2619,Signs of Injury from Intervention,0.0
+2620,Sit to Stand,0.0
+2621,Site Appearance - Adjunctive Pain Management,0.0
+2622,Sitter,0.0
+2605,Sheath Site Appear,0.0
+2603,Sheath Line Tip Cultured,0.0
+2581,ScvO2 (Presep) SQI,0.0
+2592,Self harm NCP - Expected outcomes,0.0
+2583,Sed Rate,0.0
+2584,Sedation goal,0.0
+2586,See eMAR for meds,0.0
+2587,Seizure,0.0
+2588,Seizure Activity,0.0
+2589,Seizure Duration,0.0
+2590,Seizure Pads,0.0
+2593,Self harm NCP - Interventions,0.0
+2602,Sheath Line Dressing Occlusive,0.0
+2594,Self harm NCP - Outcomes met,0.0
+2595,Self harm NCP - Plan revised,0.0
+2596,Self harm NCP - Problem resolved,0.0
+2597,Sensory Level,0.0
+2599,Service,0.0
+2600,Sexuality / reproductive problems,0.0
+2601,Sheath Line Discontinued,0.0
+2718,Systems reviewed,0.0
+2720,T Low (APRV),0.0
+2536,Restraint (Non-violent),0.0
+2863,Undermining Present #3,0.0
+2838,Tunneling Present #5,0.0
+2839,Tunneling Present #6,0.0
+2840,Tunneling Present #7,0.0
+2841,Tunneling Present #8,0.0
+2842,Tunneling Present #9,0.0
+2843,Turn,0.0
+2844,Type (Tandem Heart),0.0
+2845,Type of Catheter (Impella),0.0
+2846,UE Dressing,0.0
+2847,UF Heparin (Anti-Xa),0.0
+2848,Ulnar Pulse L,0.0
+2849,Ulnar Pulse R,0.0
+2850,Ultrafiltrate Output,0.0
+2858,Unable to obtain,0.0
+2859,Unassisted Systole,0.0
+2860,Undermining Present #1,0.0
+2861,Undermining Present #10,0.0
+2837,Tunneling Present #4,0.0
+2836,Tunneling Present #3,0.0
+2835,Tunneling Present #2,0.0
+2824,Triple Introducer Zero/Calibrate,0.0
+2817,Tremor (COWS),0.0
+2818,Triglyceride,0.0
+2819,Triple Introducer Dressing Occlusive,0.0
+2820,Triple Introducer Line Tip Cultured,0.0
+2821,Triple Introducer Placement Confirmed by X-ray,0.0
+2822,Triple Introducer Site Appear,0.0
+2823,Triple Introducer Waveform Appear,0.0
+2825,Triple Introducer placed in outside facility,0.0
+2834,Tunneling Present #10,0.0
+2827,Tunneled (Hickman) Dressing Occlusive,0.0
+2828,Tunneled (Hickman) Line Discontinued,0.0
+2829,Tunneled (Hickman) Line Tip Cultured,0.0
+2830,Tunneled (Hickman) Placement Confirmed by X-ray,0.0
+2831,Tunneled (Hickman) Site Appear,0.0
+2832,Tunneled (Hickman) placed in outside facility,0.0
+2833,Tunneling Present #1,0.0
+2862,Undermining Present #2,0.0
+2864,Undermining Present #4,0.0
+2723,TFCd (NICOM),0.0
+2865,Undermining Present #5,0.0
+2892,Vented,0.0
+2894,Ventilator Mode (Hamilton),0.0
+2897,Ventilator Type,0.0
+2898,Vibration in Line,0.0
+2899,Violent Restraints,0.0
+2900,Violent Restraints Ordered,0.0
+2902,Visual Disturbances,0.0
+2903,Visual Field Cut,0.0
+2904,Vital Cap,0.0
+2905,Volume In (PD),0.0
+2909,WBCApacheIIValue,0.0
+2910,WBCScore_ApacheIV,0.0
+2911,WBC_ApacheIV,0.0
+2912,Warming Device,0.0
+2913,Warming Device Status,0.0
+2914,WbcApacheIIScore,0.0
+2915,Yawning,0.0
+2889,Vd/Vt Ratio,0.0
+2887,Vascular,0.0
+2886,Vancomycin (Trough),0.0
+2875,Urine Color_y,0.0
+2866,Undermining Present #6,0.0
+2867,Undermining Present #7,0.0
+2868,Undermining Present #8,0.0
+2869,Undermining Present #9,0.0
+2871,Untoward Effect,0.0
+2873,Urinal/Bedpan,0.0
+2874,Urine Appearance_y,0.0
+2876,Urine Source,0.0
+2884,Vacuum Assist,0.0
+2877,Urine output_ApacheIV,0.0
+2878,UrineScore_ApacheIV,0.0
+2879,Use A-aDO2,0.0
+2880,Use of assistive devices,0.0
+2881,VAD Beat Rate R,0.0
+2882,VAP - Prophy,0.0
+2883,VEN Lumen Volume,0.0
+2815,Tremor (CINA),0.0
+2814,Trauma Line placed in outside facility,0.0
+2813,Trauma Line Tip Cultured,0.0
+2812,Trauma Line Site Appear,0.0
+2744,Tandem Heart Return Cannula Size,0.0
+2745,Teaching directed toward,0.0
+2746,TempApacheIIScore,0.0
+2747,TempApacheIIValue,0.0
+2748,TempScore_ApacheIV,0.0
+2751,Temperature Site,0.0
+2752,TemperatureF_ApacheIV,0.0
+2753,Temporary AV interval,0.0
+2754,Temporary Atrial Capture,0.0
+2755,Temporary Atrial Sens,0.0
+2756,Temporary Atrial Sens Setting mV,0.0
+2757,Temporary Atrial Sens Threshold mV,0.0
+2758,Temporary Atrial Stim Setting mA,0.0
+2759,Temporary Atrial Stim Threshold mA,0.0
+2760,Temporary Pacemaker Mode,0.0
+2762,Temporary Pacemaker Type,0.0
+2763,Temporary Pacemaker Wire Condition,0.0
+2743,Tandem Heart Return Cannula Site Appear,0.0
+2742,Tandem Heart Return Cannula Site,0.0
+2741,Tandem Heart Return Cannula Repositioned,0.0
+2731,Tandem Heart Access Line Position,0.0
+2724,TFCd0 (NICOM),0.0
+2725,TOF Response,0.0
+2726,TOF Twitch,0.0
+2727,Tactile Disturbances,0.0
+2728,Tandem Heart Access Line Cannula Site,0.0
+2729,Tandem Heart Access Line Catheter Length,0.0
+2730,Tandem Heart Access Line Dressing Occlusive,0.0
+2732,Tandem Heart Access Line Postion Confirmed,0.0
+2740,Tandem Heart Return Cannula Position,0.0
+2733,Tandem Heart Access Line Pump Housing Checked,0.0
+2734,Tandem Heart Access Line Repositioned,0.0
+2735,Tandem Heart Access Line Site Appear,0.0
+2736,Tandem Heart Access Line Type,0.0
+2737,Tandem Heart Flow,0.0
+2738,Tandem Heart Return Cannula Dressing Occlusive,0.0
+2739,Tandem Heart Return Cannula Migration,0.0
+2764,Temporary Pacemaker Wires Atrial,0.0
+2765,Temporary Pacemaker Wires Ground,0.0
+2767,Temporary Venticular Sens Threshold mV,0.0
+2803,Traction/Immobile Location #3,0.0
+2796,Trach Tube Size (I.D.),0.0
+2797,Trach Tube Type,0.0
+2798,Traction/Immobile #1,0.0
+2799,Traction/Immobile #2,0.0
+2800,Traction/Immobile #3,0.0
+2801,Traction/Immobile Location #1,0.0
+2802,Traction/Immobile Location #2,0.0
+2804,Trans Membrane Pressure,0.0
+2793,Total Protein,0.0
+2805,Transcutaneous Pacer Placement,0.0
+2806,Transfer,0.0
+2807,Transpulmonary Pressure (Exp. Hold),0.0
+2808,Transpulmonary Pressure (Insp. Hold),0.0
+2809,Trauma Line Discontinued,0.0
+2810,Trauma Line Dressing Occlusive,0.0
+2811,Trauma Line Placement Confirmed by X-ray,0.0
+2795,Trach Tube Manufacturer,0.0
+2792,Total Peripheral Resistance Index (TPRI) (NICOM),0.0
+2769,Temporary Ventricular Capture,0.0
+2780,Time spent,0.0
+2770,Temporary Ventricular Sens,0.0
+2771,Temporary Ventricular Sens Setting mV,0.0
+2772,Temporary Ventricular Stim Setting mA,0.0
+2773,Test Performed (AM-PAC),0.0
+2774,Therapeutic Bed,0.0
+2775,Thoracic Fluid Content (TFC) (NICOM),0.0
+2776,Thrombin_y,0.0
+2781,Timespent,0.0
+2791,Total Peripheral Resistance (TPR) (NICOM),0.0
+2782,Tobacco Use History,0.0
+2783,Tobacco use,0.0
+2784,Tobramycin (Peak),0.0
+2785,Tobramycin (Random),0.0
+2786,Toileting,0.0
+2787,Tongue,0.0
+2789,Total Granulocyte Count (TGC),0.0
+2537,Restraint Device (Non-Violent),0.0
+2535,Restlessness (COWS),0.0
+2188,Peak Exp Flow Rate,0.0
+2321,Pressure ulcer #1- Drainage,0.0
+2301,Pressure Ulcer #8- Treatment,0.0
+2302,Pressure Ulcer #8- Type,0.0
+2303,Pressure Ulcer #8- Width,0.0
+2304,Pressure Ulcer #9- Depth,0.0
+2305,Pressure Ulcer #9- Location,0.0
+2306,Pressure Ulcer #9- Treatment,0.0
+2307,Pressure Ulcer #9- Type,0.0
+2308,Pressure Ulcer #9- Width,0.0
+2309,Pressure Ulcer Present,0.0
+2311,Pressure Ulcer Stage #10,0.0
+2313,Pressure Ulcer Stage #3,0.0
+2314,Pressure Ulcer Stage #4,0.0
+2315,Pressure Ulcer Stage #5,0.0
+2316,Pressure Ulcer Stage #6,0.0
+2317,Pressure Ulcer Stage #7,0.0
+2318,Pressure Ulcer Stage #8,0.0
+2319,Pressure Ulcer Stage #9,0.0
+2300,Pressure Ulcer #8- Location,0.0
+2299,Pressure Ulcer #8- Depth,0.0
+2298,Pressure Ulcer #7- Width,0.0
+2288,Pressure Ulcer #5- Width,0.0
+2281,Pressure Ulcer #4- Treatment,0.0
+2282,Pressure Ulcer #4- Type,0.0
+2283,Pressure Ulcer #4- Width,0.0
+2284,Pressure Ulcer #5- Depth,0.0
+2285,Pressure Ulcer #5- Location,0.0
+2286,Pressure Ulcer #5- Treatment,0.0
+2287,Pressure Ulcer #5- Type,0.0
+2289,Pressure Ulcer #6- Depth,0.0
+2297,Pressure Ulcer #7- Type,0.0
+2290,Pressure Ulcer #6- Location,0.0
+2291,Pressure Ulcer #6- Treatment,0.0
+2292,Pressure Ulcer #6- Type,0.0
+2293,Pressure Ulcer #6- Width,0.0
+2294,Pressure Ulcer #7- Depth,0.0
+2295,Pressure Ulcer #7- Location,0.0
+2296,Pressure Ulcer #7- Treatment,0.0
+2320,Pressure ulcer #1- Cleanse,0.0
+1644,Impaired Skin #8- Type,0.0
+2363,Pressure ulcer #4- Cleanse,0.0
+2323,Pressure ulcer #1- Dressing status,0.0
+2345,Pressure ulcer #2- Length,0.0
+2346,Pressure ulcer #2- Odor,0.0
+2347,Pressure ulcer #2- Stage,0.0
+2348,Pressure ulcer #2- Surrounding tissue,0.0
+2349,Pressure ulcer #2- Tunneling present,0.0
+2350,Pressure ulcer #2- Undermining present,0.0
+2351,Pressure ulcer #2- Wound Base,0.0
+2352,Pressure ulcer #3- Cleanse,0.0
+2353,Pressure ulcer #3- Drainage,0.0
+2354,Pressure ulcer #3- Drainage amount,0.0
+2355,Pressure ulcer #3- Dressing status,0.0
+2356,Pressure ulcer #3- Length,0.0
+2357,Pressure ulcer #3- Odor,0.0
+2358,Pressure ulcer #3- Stage,0.0
+2359,Pressure ulcer #3- Surrounding tissue,0.0
+2360,Pressure ulcer #3- Tunneling present,0.0
+2361,Pressure ulcer #3- Undermining present,0.0
+2344,Pressure ulcer #2- Dressing status,0.0
+2343,Pressure ulcer #2- Drainage amount,0.0
+2342,Pressure ulcer #2- Drainage,0.0
+2332,Pressure ulcer #10- Drainage,0.0
+2325,Pressure ulcer #1- Odor,0.0
+2326,Pressure ulcer #1- Stage,0.0
+2327,Pressure ulcer #1- Surrounding tissue,0.0
+2328,Pressure ulcer #1- Tunneling present,0.0
+2329,Pressure ulcer #1- Undermining present,0.0
+2330,Pressure ulcer #1- Wound Base,0.0
+2331,Pressure ulcer #10- Cleanse,0.0
+2333,Pressure ulcer #10- Drainage amount,0.0
+2341,Pressure ulcer #2- Cleanse,0.0
+2334,Pressure ulcer #10- Dressing status,0.0
+2335,Pressure ulcer #10- Length,0.0
+2336,Pressure ulcer #10- Odor,0.0
+2337,Pressure ulcer #10- Stage,0.0
+2338,Pressure ulcer #10- Surrounding tissue,0.0
+2339,Pressure ulcer #10- Tunneling present,0.0
+2340,Pressure ulcer #10- Wound Base,0.0
+2280,Pressure Ulcer #4- Location,0.0
+2279,Pressure Ulcer #4- Depth,0.0
+2278,Pressure Ulcer #3- Width,0.0
+2277,Pressure Ulcer #3- Type,0.0
+2210,Pheresis Catheter Site Appear,0.0
+2211,Pheresis Catheter Type,0.0
+2212,Pheresis Catheter placed in outside facility,0.0
+2214,Pin Care,0.0
+2215,Pinsp (Draeger only),0.0
+2216,Pinsp (Hamilton),0.0
+2217,Placement Monitoring Screen,0.0
+2218,Placement Monitoring Screen (R),0.0
+2219,Plan-Cardiac,0.0
+2220,Plan-MSK/Skin/Wound,0.0
+2221,Plan-Neuro,0.0
+2222,Plan-Nutritional,0.0
+2223,Plan-Renal/GU,0.0
+2224,Plan-Respiratory,0.0
+2226,Plateau Pressure (IABP),0.0
+2229,Popliteal Pulse L,0.0
+2230,Popliteal Pulse R,0.0
+2209,Pheresis Catheter Placement Confirmed by X-ray,0.0
+2208,Pheresis Catheter Line Tip Cultured,0.0
+2207,Pheresis Catheter Dressing Occlusive,0.0
+2197,Peripheral Pulses (Tandem Heart),0.0
+2190,Performance Level,0.0
+2191,Performance Level (R),0.0
+2192,Pericardial Drain Aspiration,0.0
+2193,Pericardial Drain Drainage,0.0
+2194,Pericardial Drain Flush,0.0
+2195,Pericardial Drain Site,0.0
+2196,Pericardial Drain Status,0.0
+2198,Peritoneal Dialysis Catheter Status,0.0
+2206,Phenytoin (Free),0.0
+2199,Peritoneal Dialysis Catheter Type,0.0
+2200,Peritoneal Dialysis Fluid Appearance,0.0
+2201,Permanent Pacemaker Mode,0.0
+2202,Permanent Pacemaker Rate,0.0
+2203,PhApacheIIScore,0.0
+2204,Phenobarbital_y,0.0
+2205,Phenytoin (Dilantin),0.0
+2231,Position,0.0
+2232,Position Change,0.0
+2233,Post Filter Replacement Rate,0.0
+2267,Pressure Ulcer #10- Treatment,0.0
+2258,Pressure Drop,0.0
+2259,Pressure Injury Location,0.0
+2260,Pressure Reducing Device,0.0
+2262,Pressure Ulcer #1- Location,0.0
+2263,Pressure Ulcer #1- Treatment,0.0
+2264,Pressure Ulcer #1- Type,0.0
+2266,Pressure Ulcer #10- Location,0.0
+2268,Pressure Ulcer #10- Type,0.0
+2256,Presep Catheter Zero/Calibrate,0.0
+2269,Pressure Ulcer #10- Width,0.0
+2270,Pressure Ulcer #2- Depth,0.0
+2271,Pressure Ulcer #2- Location,0.0
+2272,Pressure Ulcer #2- Treatment,0.0
+2273,Pressure Ulcer #2- Type,0.0
+2275,Pressure Ulcer #3- Location,0.0
+2276,Pressure Ulcer #3- Treatment,0.0
+2257,Presep Catheter placed in outside facility,0.0
+2255,Presep Catheter Waveform Appear,0.0
+2234,Post menopausal,0.0
+2242,PostTib. Pulses R,0.0
+2235,Post-op Care NCP - Expected outcomes,0.0
+2236,Post-op Care NCP - Goal,0.0
+2237,Post-op Care NCP - Interventions,0.0
+2238,Post-op Care NCP - Outcomes met,0.0
+2239,Post-op Care NCP - Plan revised,0.0
+2240,Post-op Care NCP - Problem resolved,0.0
+2241,PostTib. Pulses L,0.0
+2245,PotassiumApacheIIScore,0.0
+2254,Presep Catheter Site Appear,0.0
+2246,PotassiumApacheIIValue,0.0
+2247,Power (Watts) (HeartWare),0.0
+2248,Power (Watts) (VAD),0.0
+2249,Precautions: Standard +,0.0
+2250,Pregnant,0.0
+2252,Presep Catheter Line Tip Cultured,0.0
+2253,Presep Catheter Placement Confirmed by X-ray,0.0
+2362,Pressure ulcer #3- Wound Base,0.0
+2364,Pressure ulcer #4- Drainage,0.0
+2534,Restlessness,0.0
+2488,RUE Color,0.0
+2470,RLE Sensation,0.0
+2471,RLE Temp,0.0
+2472,RLL Lung Sounds,0.0
+2473,ROS-Cardiac,0.0
+2474,ROS-Endocrine,0.0
+2475,ROS-Extremeties / MSK,0.0
+2476,ROS-GI,0.0
+2477,ROS-General,0.0
+2478,ROS-HEENT,0.0
+2479,ROS-Heme / Lymph,0.0
+2480,ROS-Neuro,0.0
+2481,ROS-Psych,0.0
+2482,ROS-Respiratory,0.0
+2483,RRApacheIIValue,0.0
+2484,RRScore_ApacheIV,0.0
+2485,RR_ApacheIV,0.0
+2486,RSBI Deferred,0.0
+2469,RLE Color,0.0
+2468,RL Strength/Movement,0.0
+2467,RIC placed in outside facility,0.0
+2456,Purge Solution Flow Rate,0.0
+2449,Pupil Response Right,0.0
+2450,Pupil Size (COWS),0.0
+2451,Pupil Size Left,0.0
+2452,Pupil Size Right,0.0
+2453,Pupils,0.0
+2454,Purge Pressure,0.0
+2455,Purge Pressure (R),0.0
+2457,Purge Solution Flow Rate (R),0.0
+2466,RIC Site Appear,0.0
+2458,Pven (CH),0.0
+2459,Pven Alarm (Lo) (CH),0.0
+2460,QTc,0.0
+2462,RIC Dressing Occlusive,0.0
+2463,RIC Infiltration Scale,0.0
+2464,RIC Phlebitis Scale,0.0
+2465,RIC Reason Discontinued,0.0
+2487,RU Strength/Movement,0.0
+2489,RUE Sensation,0.0
+2365,Pressure ulcer #4- Drainage amount,0.0
+2490,RUE Temp,0.0
+2512,Recruitment Press,0.0
+2513,Reflexes LE,0.0
+2514,Reflexes UE,0.0
+2515,Replacement Fluid,0.0
+2516,Replacement Rate,0.0
+2517,Resistance Exp,0.0
+2518,Resistance Insp,0.0
+2520,Resp Alarm - Low,0.0
+2521,Respiratory,0.0
+2522,Respiratory Effort,0.0
+2523,Respiratory Pattern,0.0
+2528,Response,0.0
+2529,Response to Stimuli (Type),0.0
+2530,Rest HR - Aerobic Capacity,0.0
+2531,Rest O2 Sat - Aerobic Capacity,0.0
+2532,Rest RR - Aerobic Capacity,0.0
+2533,Resting Pulse Rate (COWS),0.0
+2511,Recruitment Mode,0.0
+2510,Recruitment Duration,0.0
+2508,Recovery RR - Aerobic Capacity,0.0
+2498,Reason for Immobilizer,0.0
+2491,RUL Lung Sounds,0.0
+2492,Radial Pulse L,0.0
+2493,Radial Pulse R,0.0
+2494,Range of Motion,0.0
+2495,Range of Motion Location,0.0
+2496,Range of Motion Status,0.0
+2497,Reason for CRRT Filter Change,0.0
+2499,Reason for Restraint (Acute Medical/Surgical)_V1,0.0
+2507,Recovery O2 Sat - Aerobic Capacity,0.0
+2500,Reason for Restraint (Behavioral)_V1,0.0
+2501,Reason for Restraint (Non-violent),0.0
+2502,Reason for Restraint (Violent),0.0
+2503,Reason for Restraint/Seclusion (Violent),0.0
+2504,Reason for Restraints (Non-Violent),0.0
+2505,Reason for Trigger (RN),0.0
+2506,Recovery HR - Aerobic Capacity,0.0
+2448,Pupil Response Left,0.0
+2447,Pump plugged into RED outlet (ECMO),0.0
+2446,Pump plugged into RED outlet (CH),0.0
+2445,Pump Speed,0.0
+2386,Pressure ulcer #6- Drainage,0.0
+2387,Pressure ulcer #6- Drainage amount,0.0
+2388,Pressure ulcer #6- Dressing status,0.0
+2389,Pressure ulcer #6- Length,0.0
+2390,Pressure ulcer #6- Odor,0.0
+2391,Pressure ulcer #6- Stage,0.0
+2392,Pressure ulcer #6- Surrounding tissue,0.0
+2393,Pressure ulcer #6- Tunneling present,0.0
+2394,Pressure ulcer #6- Undermining present,0.0
+2395,Pressure ulcer #6- Wound Base,0.0
+2396,Pressure ulcer #7- Cleanse,0.0
+2397,Pressure ulcer #7- Drainage,0.0
+2398,Pressure ulcer #7- Drainage amount,0.0
+2399,Pressure ulcer #7- Dressing status,0.0
+2400,Pressure ulcer #7- Length,0.0
+2401,Pressure ulcer #7- Odor,0.0
+2402,Pressure ulcer #7- Stage,0.0
+2385,Pressure ulcer #6- Cleanse,0.0
+2384,Pressure ulcer #5- Wound Base,0.0
+2383,Pressure ulcer #5- Undermining present,0.0
+2373,Pressure ulcer #4- Wound Base,0.0
+2366,Pressure ulcer #4- Dressing status,0.0
+2367,Pressure ulcer #4- Length,0.0
+2368,Pressure ulcer #4- Odor,0.0
+2369,Pressure ulcer #4- Stage,0.0
+2370,Pressure ulcer #4- Surrounding tissue,0.0
+2371,Pressure ulcer #4- Tunneling present,0.0
+2372,Pressure ulcer #4- Undermining present,0.0
+2374,Pressure ulcer #5- Cleanse,0.0
+2382,Pressure ulcer #5- Tunneling present,0.0
+2375,Pressure ulcer #5- Drainage,0.0
+2376,Pressure ulcer #5- Drainage amount,0.0
+2377,Pressure ulcer #5- Dressing status,0.0
+2378,Pressure ulcer #5- Length,0.0
+2379,Pressure ulcer #5- Odor,0.0
+2380,Pressure ulcer #5- Stage,0.0
+2381,Pressure ulcer #5- Surrounding tissue,0.0
+2403,Pressure ulcer #7- Surrounding tissue,0.0
+2404,Pressure ulcer #7- Tunneling present,0.0
+2405,Pressure ulcer #7- Undermining present,0.0
+2435,Pulmonary Artery Pressure Alarm - High (Veletri),0.0
+2427,Pressure ulcer #9- Undermining present,0.0
+2428,Pressure ulcer #9- Wound Base,0.0
+2429,Pressures Off (CH),0.0
+2430,Progress,0.0
+2431,Pronator Drift,0.0
+2432,Pronator drift present,0.0
+2434,Pulmonary Artery Pressure Alarm - High,0.0
+2436,Pulmonary Artery Pressure Alarm - Low,0.0
+2425,Pressure ulcer #9- Surrounding tissue,0.0
+2437,Pulmonary Artery Pressure Alarm - Low (Veletri),0.0
+2438,Pulmonary Artery Pressure Signal - Diastolic,0.0
+2440,Pulmonary Artery Pressure mean,0.0
+2441,Pulmonary Artery Pressure systolic,0.0
+2442,Pulmonary Atrtery Pressure Signal - Systolic,0.0
+2443,Pulsatility Index (VAD),0.0
+2444,Pulsus Paradoxus,0.0
+2426,Pressure ulcer #9- Tunneling present,0.0
+2424,Pressure ulcer #9- Stage,0.0
+2406,Pressure ulcer #7- Wound Base,0.0
+2414,Pressure ulcer #8- Surrounding tissue,0.0
+2407,Pressure ulcer #8- Cleanse,0.0
+2408,Pressure ulcer #8- Drainage,0.0
+2409,Pressure ulcer #8- Drainage amount,0.0
+2410,Pressure ulcer #8- Dressing status,0.0
+2411,Pressure ulcer #8- Length,0.0
+2412,Pressure ulcer #8- Odor,0.0
+2413,Pressure ulcer #8- Stage,0.0
+2415,Pressure ulcer #8- Tunneling present,0.0
+2423,Pressure ulcer #9- Odor,0.0
+2416,Pressure ulcer #8- Undermining present,0.0
+2417,Pressure ulcer #8- Wound Base,0.0
+2418,Pressure ulcer #9- Cleanse,0.0
+2419,Pressure ulcer #9- Drainage,0.0
+2420,Pressure ulcer #9- Drainage amount,0.0
+2421,Pressure ulcer #9- Dressing status,0.0
+2422,Pressure ulcer #9- Length,0.0
+1645,Impaired Skin #9- Cleanse,0.0
+1458,GI #1 Tube Type,0.0
+1643,Impaired Skin #8- Treatment,0.0
+602,Inpatient Hematology/Oncology Smear,0.0
+594,"Immunofixation, Urine",0.0
+596,Immunoglobulin G,0.0
+597,Immunoglobulin M,0.0
+598,Immunophenotyping,0.0
+599,Influenza A by PCR,0.0
+600,Influenza B by PCR,0.0
+601,Inhibitor Screen,0.0
+603,Intubated,0.0
+589,Hypochromia,0.0
+605,"Iron Binding Capacity, Total",0.0
+606,Iron Stain,0.0
+607,"Joint Crystals, Birefringence",0.0
+608,"Joint Crystals, Location",0.0
+609,"Joint Crystals, Number",0.0
+610,"Joint Crystals, Shape",0.0
+611,Kappa,0.0
+593,Immunofixation,0.0
+588,Hypersegmented Neutrophils,0.0
+615,LUC,0.0
+577,Hepatitis B Surface Antibody,0.0
+570,Hemogloblin S,0.0
+571,Hemosiderin,0.0
+572,Heparin,0.0
+573,"Heparin, LMW",0.0
+574,Hepatitis A Virus Antibody,0.0
+575,Hepatitis A Virus IgM Antibody,0.0
+576,"Hepatitis B Core Antibody, IgM",0.0
+578,Hepatitis B Surface Antigen,0.0
+586,Human Chorionic Gonadotropin,0.0
+579,Hepatitis B Viral Load,0.0
+580,Hepatitis B Virus Core Antibody,0.0
+581,Hepatitis C Viral Load,0.0
+582,Hepatitis C Virus Antibody,0.0
+583,High-Sensitivity CRP,0.0
+584,Homocysteine,0.0
+585,Howell-Jolly Bodies,0.0
+614,"LD, Body Fluid",0.0
+618,"Lactate Dehydrogenase, Ascites",0.0
+568,Hemoglobin F,0.0
+655,"Miscellaneous, CSF",0.0
+647,Mesothelial cells,0.0
+649,"Methadone, Urine",0.0
+650,Methemoglobin,0.0
+651,Methotrexate,0.0
+652,Microcytes,0.0
+653,"Miscellaneous, Ascites",0.0
+654,"Miscellaneous, Body Fluid",0.0
+656,"Miscellaneous, Pleural",0.0
+645,Mesothelial Cell,0.0
+660,"Myoglobin, Urine",0.0
+661,NRBC,0.0
+662,NTproBNP,0.0
+663,Neisseria gonorrhoeae,0.0
+665,Nitrite,0.0
+666,Non-squamous Epithelial Cells,0.0
+667,NonSquamous Epithelial Cell,0.0
+646,Mesothelial Cells,0.0
+644,Marijuana,0.0
+619,"Lactate Dehydrogenase, CSF",0.0
+628,Luteinizing Hormone,0.0
+620,"Lactate Dehydrogenase, Pleural",0.0
+621,Lambda,0.0
+622,Large Platelets,0.0
+623,Leukocytes,0.0
+624,Lining Cell,0.0
+626,Lithium,0.0
+627,Lupus Anticoagulant,0.0
+629,Lyme C6 Ab,0.0
+643,"Magnesium, Urine",0.0
+630,Lyme G and M Value,0.0
+632,"Lymphocytes, Percent",0.0
+637,MRSA PCR,0.0
+638,MacroOvalocytes,0.0
+639,Macrocytes,0.0
+640,Macrophage,0.0
+641,Macrophages,0.0
+569,Hemogloblin A,0.0
+567,Hemoglobin C,0.0
+871,18 Gauge Reason Discontinued,0.0
+507,FMC-7,0.0
+500,Epstein-Barr Virus Interpretation,0.0
+501,Epstein-Barr Virus VCA IgG Ab,0.0
+502,Epstein-Barr Virus VCA IgM Ab,0.0
+503,Estimated GFR (MDRD equation),0.0
+504,Ethanol,0.0
+505,"Ethanol, Urine",0.0
+506,Ethylene Glycol,0.0
+508,Factor II,0.0
+498,Epstein-Barr Virus IgG Ab Value,0.0
+509,Factor V,0.0
+510,Factor VII,0.0
+511,Factor VIII_y,0.0
+512,Factor X,0.0
+513,Factor XI,0.0
+514,Fentanyl_y,0.0
+516,Fibrin Degradation Products,0.0
+499,Epstein-Barr Virus IgM Ab Value,0.0
+497,Epstein-Barr Virus EBNA IgG Ab,0.0
+519,Follicle Stimulating Hormone,0.0
+485,EE1,0.0
+476,"Creatinine, Pleural",0.0
+478,"Creatinine, Whole Blood",0.0
+479,Cryoglobulin,0.0
+480,Cyclosporin,0.0
+481,Cytomegalovirus Viral Load,0.0
+483,Digoxin_x,0.0
+484,Double Stranded DNA,0.0
+486,EE2,0.0
+496,Epstein-Barr Virus  EBNA IgG Ab,0.0
+487,EE3,0.0
+488,EE6,0.0
+489,EE7,0.0
+490,Echinocytes,0.0
+491,Elliptocytes,0.0
+492,Envelope Cells,0.0
+493,Eosinophil Count,0.0
+518,Folate,0.0
+520,Fragmented Cells,0.0
+566,Hemoglobin A2,0.0
+553,HPE5,0.0
+546,HIT-Ab Numerical Result,0.0
+547,HIV Antibody,0.0
+548,HLA-DR,0.0
+549,HPE1,0.0
+550,HPE2,0.0
+551,HPE3,0.0
+552,HPE4,0.0
+554,HPE6,0.0
+544,"HCG, Urine, Qualitative",0.0
+555,HPE7,0.0
+556,HPE8,0.0
+559,"Hematocrit, Ascites",0.0
+560,"Hematocrit, CSF",0.0
+562,"Hematocrit, Joint Fluid",0.0
+563,"Hematocrit, Other Fluid",0.0
+564,"Hematocrit, Pleural",0.0
+545,HIT-Ab Interpreted Result,0.0
+543,H/O Smear,0.0
+522,Free Fat,0.0
+531,"Glucose, Ascites",0.0
+523,Free Kappa,0.0
+524,Free Kappa/Free Lambda Ratio,0.0
+525,Free Lambda,0.0
+526,"G6PD, Qualitative",0.0
+527,Gamma Glutamyltransferase,0.0
+528,Gentamicin_y,0.0
+529,Globulin,0.0
+532,"Glucose, Body Fluid",0.0
+542,H. pylori IgG Ab Value,0.0
+533,"Glucose, CSF",0.0
+534,"Glucose, Pleural",0.0
+535,"Glucose, Urine",0.0
+536,Glyco A,0.0
+538,Granulocyte Count,0.0
+539,Green Top Hold (plasma),0.0
+541,H. pylori IgG Ab,0.0
+668,Norovirus Genogroup I,0.0
+669,Norovirus Genogroup II,0.0
+670,Nucleated RBC,0.0
+810,UTX7,0.0
+803,UTX1,0.0
+804,UTX10,0.0
+805,UTX2,0.0
+806,UTX3,0.0
+807,UTX4,0.0
+808,UTX5,0.0
+809,UTX6,0.0
+811,UTX9,0.0
+801,UCU1,0.0
+812,Uptake Ratio,0.0
+815,Uric Acid_x,0.0
+816,Uric Acid Crystals,0.0
+817,"Uric Acid, Urine",0.0
+818,Urine Appearance_x,0.0
+819,"Urine Casts, Other",0.0
+820,Urine Color_x,0.0
+802,UCU2,0.0
+799,Triple Phosphate Crystals,0.0
+822,Urine Fat Bodies,0.0
+789,Transferrin,0.0
+780,"Total Nucleated Cells, CSF",0.0
+781,"Total Nucleated Cells, Joint",0.0
+783,"Total Nucleated Cells, Pleural",0.0
+784,"Total Protein, Ascites",0.0
+785,"Total Protein, Body Fluid",0.0
+786,"Total Protein, CSF",0.0
+788,"Total Protein, Urine",0.0
+790,Transitional Epithelial Cells,0.0
+798,Triiodothyronine (T3),0.0
+791,Treponema pallidum (Syphilis) Ab,0.0
+792,Treponema pallidum (syphilis) value,0.0
+793,Tricyclic Antidepressant Screen,0.0
+794,Triglycer,0.0
+795,Triglycerides,0.0
+796,"Triglycerides, Ascites",0.0
+797,"Triglycerides, Pleural",0.0
+821,"Urine Crystals, Other",0.0
+823,Urine Mucous,0.0
+672,O2 Flow_x,0.0
+859,14 Gauge placed in outside facility,0.0
+852,wbcp,0.0
+853,% Minute Volume,0.0
+854,14 G Infiltration Scale,0.0
+855,14 G Phlebitis Scale,0.0
+856,14 Gauge Dressing Occlusive,0.0
+857,14 Gauge Reason Discontinued,0.0
+858,14 Gauge Site Appear,0.0
+860,14 Gauge placed in the field,0.0
+850,"proBNP, Pleural",0.0
+861,16 G Infiltration Scale,0.0
+862,16 G Phlebitis Scale,0.0
+863,16 Gauge Dressing Occlusive,0.0
+864,16 Gauge Reason Discontinued,0.0
+865,16 Gauge Site Appear,0.0
+867,16 Gauge placed in the field,0.0
+868,18 G Infiltration Scale,0.0
+851,tacroFK,0.0
+845,Young Cells,0.0
+824,Urine Specimen Type,0.0
+833,Voided Specimen,0.0
+825,Urobilinogen,0.0
+826,VZV IgG Ab,0.0
+827,VZV IgG Ab Value,0.0
+828,Valproic Acid,0.0
+830,Ventilation Rate,0.0
+831,Ventilator,0.0
+832,Vitamin B12,0.0
+834,Von Willebrand Factor Activity,0.0
+844,Yeast,0.0
+835,Von Willebrand Factor Antigen,0.0
+837,WBC Casts,0.0
+838,WBC Clumps,0.0
+839,WBC Count,0.0
+840,Waxy Casts,0.0
+842,Wright Giemsa,0.0
+843,XUCU,0.0
+779,"Total Nucleated Cells, Ascites",0.0
+778,Tobramycin_y,0.0
+777,"Tissue Transglutaminase Ab, IgA",0.0
+715,Protein Electrophoresis,0.0
+703,Polychromasia,0.0
+708,Problem Specimen,0.0
+709,Prolactin,0.0
+710,Promyelocytes,0.0
+711,Prostate Specific Antigen,0.0
+712,"Prot. Electrophoresis, Urine",0.0
+714,"Protein C, Functional",0.0
+716,"Protein S, Functional",0.0
+701,Platelet Smear,0.0
+717,"Protein, Total",0.0
+718,Protein/Creatinine Ratio,0.0
+719,Quantitative G6PD,0.0
+720,RBC,0.0
+721,RBC Casts,0.0
+722,RBC Morphology,0.0
+723,"RBC, Ascites",0.0
+702,Poikilocytosis,0.0
+699,Platelet Clumps,0.0
+775,"Thyroxine (T4), Free",0.0
+684,PAN1,0.0
+673,"Opiate Screen, Urine",0.0
+676,Other,0.0
+677,Other Cell,0.0
+678,Other Cells,0.0
+679,Oval Fat Body,0.0
+680,Ovalocytes,0.0
+681,Oxycodone,0.0
+688,Pappenheimer Bodies,0.0
+698,Plasma Cells,0.0
+689,Parathyroid Hormone,0.0
+690,Pencil Cells,0.0
+691,Phenobarbital_x,0.0
+693,"Phenytoin, Free",0.0
+694,"Phenytoin, Percent Free",0.0
+696,"Phosphate, Urine",0.0
+697,Plasma,0.0
+724,"RBC, CSF",0.0
+725,"RBC, Joint Fluid",0.0
+726,"RBC, Other Fluid",0.0
+764,Stomatocyte,0.0
+753,Sex Hormone Binding Globulin,0.0
+754,Sickle Cell Preparation,0.0
+755,Sickle Cells,0.0
+760,Specimen Type,0.0
+761,Sperm,0.0
+762,Spherocytes,0.0
+763,Staph aureus PCR,0.0
+765,Target Cells,0.0
+727,"RBC, Pleural",0.0
+766,Teardrop Cells,0.0
+768,Testosterone,0.0
+769,Theophylline,0.0
+770,Thrombin_x,0.0
+771,Thyroglobulin,0.0
+772,Thyroid Peroxidase Antibodies,0.0
+774,Thyroxine (T4),0.0
+752,Serum Viscosity,0.0
+751,Sedimentation Rate,0.0
+750,Schistocytes,0.0
+749,Salicylate,0.0
+730,RFXLDLM,0.0
+731,RFXUCU,0.0
+732,RUBIgGV,0.0
+733,Rapamycin,0.0
+735,Red Top Hold,0.0
+736,Renal Epithelial Cells,0.0
+739,"Reticulocyte Count, Automated",0.0
+740,"Reticulocyte Count, Manual",0.0
+741,Rheumatoid Factor,0.0
+742,Rubella IgG Ab,0.0
+743,STX1,0.0
+744,STX2,0.0
+746,STX4,0.0
+747,STX5,0.0
+748,STX6,0.0
+475,"Creatinine, Body Fluid",0.0
+474,"Creatinine, Ascites",0.0
+470,Cortisol_x,0.0
+182,Hydrochloric Acid - HCL,0.0
+169,Gancyclovir,0.0
+172,Glucerna (Full),0.0
+173,Glucerna 1.2 (Full),0.0
+174,Glucerna 1.5 (Full),0.0
+175,Glycopyrolate (Robinul),0.0
+178,Heparin Sodium (Impella),0.0
+180,Hetastarch (Hespan) 6%,0.0
+184,IV Immune Globulin (IVIG),0.0
+163,Fosphenytoin,0.0
+185,Imipenem/Cilastatin,0.0
+186,Impact (Full),0.0
+187,Impact with Fiber (1/4),0.0
+188,Impact with Fiber (Full),0.0
+189,Insulin - 70/30,0.0
+190,Insulin - Glargine,0.0
+192,Insulin - Humalog 75/25,0.0
+164,Free Water,0.0
+162,Fondaparinux,0.0
+194,Insulin - Novolog,0.0
+147,Epoprostenol (Veletri),0.0
+133,Dextrose PN,0.0
+135,Digoxin (Lanoxin),0.0
+141,Drotrecogin (Xigris),0.0
+142,Enoxaparin (Lovenox),0.0
+143,Ensure (Full),0.0
+144,Ensure Plus (Full),0.0
+146,Epinephrine.,0.0
+148,Eptifibatide (Integrilin),0.0
+161,Folic Acid,0.0
+149,Ertapenem sodium (Invanz),0.0
+152,Esomeprazole (Nexium),0.0
+153,Factor VIII_x,0.0
+154,Factor VIIa,0.0
+158,Fiber Supplement (i.e. Banana Flakes),0.0
+159,Fibersource HN (Full),0.0
+160,Fluconazole,0.0
+193,Insulin - NPH,0.0
+196,Isosource 1.5 (1/2),0.0
+264,PACU Colloid Intake,0.0
+250,Nutren Pulmonary (Full),0.0
+238,Nafcillin,0.0
+239,Naloxone (Narcan),0.0
+240,Neostigmine (Prostigmin),0.0
+241,Nepro (Full),0.0
+242,Nesiritide,0.0
+248,NovaSource Renal (Full),0.0
+249,Nutren 2.0 (Full),0.0
+251,Nutren Renal (Full),0.0
+232,Mycophenolate mofetil (Cellcept),0.0
+252,OR Autologous Blood Intake,0.0
+254,OR Colloid Intake,0.0
+255,OR Cryoprecipitate Intake,0.0
+258,OR Packed RBC Intake,0.0
+259,OR Platelet Intake,0.0
+261,Omeprazole (Prilosec),0.0
+262,Ondansetron (Zofran),0.0
+233,Na Phos,0.0
+230,Moxifloxacin,0.0
+197,Isosource 1.5 (Full),0.0
+206,Ketorolac (Toradol),0.0
+198,Isuprel,0.0
+199,Jevity 1.2 (Full),0.0
+200,Jevity 1.5 (Full),0.0
+201,K Phos,0.0
+203,KCl (CRRT),0.0
+204,Keflex,0.0
+205,Ketamine,0.0
+209,Lansoprazole (Prevacid),0.0
+226,Micafungin,0.0
+213,Linezolid,0.0
+214,Lipids (additive),0.0
+215,Lipids 20%,0.0
+219,Magnesium Sulfate (OB-GYN),0.0
+221,Meperidine (Demerol),0.0
+223,Methadone Hydrochloride,0.0
+224,Metoprolol,0.0
+132,Dextrose 50%,0.0
+130,Dextrose 20%,0.0
+128,Dextran 40,0.0
+49,Penrose #2,0.0
+36,L Ureteral Stent,0.0
+37,Lumbar,0.0
+38,Mediastinal,0.0
+44,PACU Drains,0.0
+45,PACU EBL,0.0
+46,PACU Gastric,0.0
+48,Penrose #1,0.0
+50,Pericardial,0.0
+34,L Pleural #1,0.0
+51,Pigtail #1,0.0
+52,Pigtail #2,0.0
+55,R Pleural #1,0.0
+56,R Pleural #2,0.0
+57,R Ureteral Stent,0.0
+58,Rectal Tube,0.0
+59,Red Rubber,0.0
+35,L Pleural #2,0.0
+32,Jejunostomy,0.0
+126,Daptomycin,0.0
+15,Drainage Bag,0.0
+2,Anderson (gastric),0.0
+3,Blakemore,0.0
+6,Cerebral Subdural #2,0.0
+8,Cerebral Ventricular #2,0.0
+11,Chest Tube #3,0.0
+12,Chest Tube #4,0.0
+14,Davol,0.0
+17,Ewald,0.0
+31,Jackson Pratt #4,0.0
+18,Fecal Bag,0.0
+22,Gastric Tube,0.0
+23,Hemovac #1,0.0
+24,Hemovac #2,0.0
+26,JP Lateral,0.0
+27,JP Medial,0.0
+30,Jackson Pratt #3,0.0
+62,Sump #1,0.0
+63,Sump #2,0.0
+65,T Tube,0.0
+111,Ceftazidime,0.0
+99,Boost Glucose Control (Full),0.0
+100,Bumetanide (Bumex),0.0
+103,Calcium Gluconate (Bolus),0.0
+104,Calcium Gluconate (CRRT),0.0
+105,Carafate (Sucralfate),0.0
+106,Caspofungin,0.0
+110,Ceftaroline,0.0
+113,Cell Saver,0.0
+67,TF Residual Output,0.0
+116,Citrate,0.0
+117,Clevidipine (Cleviprex),0.0
+119,Colistin,0.0
+120,Coumadin (Warfarin),0.0
+123,D5 1/4NS,0.0
+124,D5LR,0.0
+125,D5NS,0.0
+98,Bivalirudin (Angiomax),0.0
+97,Beneprotein,0.0
+95,Aztreonam,0.0
+93,Atropine,0.0
+68,Tap,0.0
+71,Wound Vac #2,0.0
+72,ACD-A Citrate (1000ml),0.0
+73,Abciximab (Reopro),0.0
+75,Acetylcysteine,0.0
+77,Adenosine,0.0
+78,Albumin 25%,0.0
+80,Alteplase (TPA),0.0
+81,Ambisome,0.0
+82,Amikacin_x,0.0
+83,Amino Acids,0.0
+84,Aminocaproic acid (Amicar),0.0
+87,Amiodarone 600/500,0.0
+90,Angiotensin II (Giapreza),0.0
+92,Atovaquone,0.0
+263,Osmolite 1.5 (Full),0.0
+266,PACU FFP Intake,0.0
+469,"Cocaine, Urine",0.0
+415,CD11c,0.0
+408,C. diff PCR,0.0
+409,C3,0.0
+410,C4,0.0
+411,CA 19-9,0.0
+412,CA-125,0.0
+413,CD10,0.0
+414,CD117,0.0
+416,CD13,0.0
+405,"Blood, Occult",0.0
+417,CD14,0.0
+418,CD15,0.0
+419,CD15/56,0.0
+420,CD19,0.0
+421,CD2,0.0
+422,CD20,0.0
+423,CD23,0.0
+406,Broad Casts,0.0
+404,Blood Parasite Smear,0.0
+425,CD3 %,0.0
+390,Beta-2 Microglobulin,0.0
+380,Bacteria,0.0
+382,Barbiturate Screen,0.0
+383,"Barbiturate Screen, Urine",0.0
+385,Basophilic Stippling,0.0
+387,Benzodiazepine Screen,0.0
+388,"Benzodiazepine Screen, Urine",0.0
+389,Beta Hydroxybutyrate,0.0
+392,"Bicarbonate, Urine",0.0
+403,Blood,0.0
+393,Bilirubin,0.0
+394,Bilirubin Crystals,0.0
+398,"Bilirubin, Total, Ascites",0.0
+399,"Bilirubin, Total, Body Fluid",0.0
+400,"Bilirubin, Total, Pleural",0.0
+401,Bite Cells,0.0
+402,Blasts,0.0
+424,CD3,0.0
+426,CD3 Absolute Count,0.0
+267,PACU PO Intake,0.0
+458,Chlamydia trachomatis,0.0
+451,Call,0.0
+452,Cancer Antigen 27.29,0.0
+453,Carbamazepine,0.0
+454,Carboxyhemoglobin,0.0
+455,Carcinoembyronic Antigen (CEA),0.0
+456,Cellular Cast,0.0
+457,Centromere,0.0
+460,"Chloride, Urine",0.0
+448,Calculated TBG,0.0
+462,Cholesterol Crystals,0.0
+463,Cholesterol Ratio (Total/HDL),0.0
+464,"Cholesterol, HDL",0.0
+465,"Cholesterol, LDL, Calculated",0.0
+466,"Cholesterol, LDL, Measured",0.0
+467,"Cholesterol, Pleural",0.0
+468,"Cholesterol, Total",0.0
+449,Calculated Thyroxine (T4) Index,0.0
+447,Calculated Free Testosterone,0.0
+427,"CD3 Cells, Percent",0.0
+435,CD5 %,0.0
+428,CD33,0.0
+429,CD34,0.0
+430,"CD4 Cells, Percent",0.0
+431,CD4/CD8 Ratio,0.0
+432,CD41,0.0
+433,CD45,0.0
+434,CD5,0.0
+436,CD5 Absolute Count,0.0
+446,"Calculated Bicarbonate, Whole Blood",0.0
+437,CD7,0.0
+438,CD71,0.0
+439,"CD8 Cells, Percent",0.0
+440,CDT027,0.0
+442,Calcium Oxalate Crystals,0.0
+443,Calcium Phosphate Crystals,0.0
+445,"Calcium, Urine",0.0
+379,Atypical Lymphocytes,0.0
+378,Assist/Control,0.0
+376,Antithrombin,0.0
+310,TPN w/ Lipids,0.0
+298,Ranitidine,0.0
+299,Ranitidine (Prophylaxis),0.0
+300,Replete (3/4),0.0
+301,Replete (Full),0.0
+302,Replete with Fiber (1/2),0.0
+303,Replete with Fiber (Full),0.0
+304,Rifampin,0.0
+312,Tamiflu,0.0
+296,Pulmocare (Full),0.0
+314,Tigecycline,0.0
+315,Tirofiban (Aggrastat),0.0
+316,Tobramycin_x,0.0
+317,Treprostinil (Remodulin),0.0
+318,Two Cal HN (Full),0.0
+319,Valgancyclovir,0.0
+322,Vecuronium,0.0
+297,Quinine,0.0
+295,Protamine sulfate,0.0
+375,Anticardiolipin Antibody IgM,0.0
+278,Peripheral Parenteral Nutrition,0.0
+268,PACU Packed RBC Intake,0.0
+269,PACU Platelet Intake,0.0
+272,Pamidronate,0.0
+274,Penicillin G potassium,0.0
+275,Pentobarbital,0.0
+276,Peptamen 1.5 (Full),0.0
+277,Peptamen Bariatric (Full),0.0
+280,Phenylephrine (200/250),0.0
+293,Promote with Fiber (Full),0.0
+283,Piperacillin,0.0
+285,Plasma Pheresis,0.0
+286,Platelets,0.0
+289,ProBalance (Full),0.0
+290,Procainamide,0.0
+291,Profilnine,0.0
+292,Promote (Full),0.0
+323,Verapamil,0.0
+324,Vital 1.5 (Full),0.0
+325,Vital High Protein (Full),0.0
+365,"Amylase/Creatinine Ratio, Urine",0.0
+357,Ammonia_x,0.0
+358,Amorphous Crystals,0.0
+359,"Amphetamine Screen, Urine",0.0
+361,"Amylase, Ascites",0.0
+362,"Amylase, Body Fluid",0.0
+363,"Amylase, Pleural",0.0
+364,"Amylase, Urine",0.0
+367,Anisocytosis,0.0
+327,Voriconazole,0.0
+368,Anti-Mitochondrial Antibody,0.0
+369,Anti-Neutrophil Cytoplasmic Antibody,0.0
+370,Anti-Nuclear Antibody,0.0
+371,"Anti-Nuclear Antibody, Titer",0.0
+372,Anti-Smooth Muscle Antibody,0.0
+373,Anti-Thyroglobulin Antibodies,0.0
+374,Anticardiolipin Antibody IgG,0.0
+356,Amikacin_y,0.0
+354,Alpha-Fetoprotein,0.0
+352,"Albumin/Creatinine, Urine",0.0
+351,"Albumin, Urine",0.0
+330,24 hr Creatinine,0.0
+331,24 hr Protein,0.0
+332,25-OH Vitamin D,0.0
+333,<Albumin>,0.0
+334,ARCH-1,0.0
+336,Absolute CD3 Count,0.0
+337,Absolute CD4 Count,0.0
+338,Absolute CD8 Count,0.0
+341,Absolute Monocyte Count,0.0
+343,Acanthocytes,0.0
+344,Acetaminophen,0.0
+345,Acetone,0.0
+348,"Albumin, Ascites",0.0
+349,"Albumin, Body Fluid",0.0
+350,"Albumin, Pleural",0.0
+869,18 G Phlebitis Scale,0.0
+872,18 Gauge Site Appear,0.0
+1642,Impaired Skin #8- Location,0.0
+1405,Femoral Pulse L,0.0
+1396,FK506,0.0
+1397,Face to Face Eval (Non-Violent),0.0
+1398,Face to Face Eval (Non-violent),0.0
+1399,Face to Face Eval (Violent),0.0
+1400,Facial Droop,0.0
+1401,Family Communication,0.0
+1403,Febrile last 24 hours,0.0
+1406,Femoral Pulse R,0.0
+1392,Exam-Skin,0.0
+1407,FiO2 (CH),0.0
+1408,FiO2 (ECMO),0.0
+1409,FiO2 Challenge,0.0
+1410,FiO2 Challenge Result,0.0
+1411,FiO2ApacheIIValue,0.0
+1412,FiO2_ApacheIV,0.0
+1414,Filter Pressure,0.0
+1394,Extraocular Movements,0.0
+1391,Exam-Neuro,0.0
+1416,Flow (CH),0.0
+1379,Epidural Bolus (mL),0.0
+1371,Elimination NCP - Problem resolved,0.0
+1372,Emergency Equipment at bedside (CH),0.0
+1373,Emergency Equipment at bedside (ECMO),0.0
+1374,Emergency Equipment at bedside (LVAD),0.0
+1375,Emesis Appearance,0.0
+1377,Enema administration,0.0
+1378,Epidural Appearance,0.0
+1381,Epidural Location,0.0
+1390,Exam-GU,0.0
+1382,Epidural Medication,0.0
+1383,Epidural Total Dose (mL),0.0
+1384,Estimated Energy Needs/Kg,0.0
+1385,Estimated Protein Needs/Kg,0.0
+1387,EtCO2 Clinical indication,0.0
+1388,Exam-Ext/MSK,0.0
+1389,Exam-GI/GU,0.0
+1415,Flatus,0.0
+1417,Flow (ECMO),0.0
+1369,Elimination NCP - Interventions,0.0
+1451,GEDI (PiCCO),0.0
+1440,Forehead Sensor Position Changed,0.0
+1441,Forehead SpO2 Sensor in Place,0.0
+1443,Fundus Character,0.0
+1444,Fundus Location (Breadth),0.0
+1448,GCSEyeApacheIIValue,0.0
+1449,GCSMotorApacheIIValue,0.0
+1450,GCSVerbalApacheIIValue,0.0
+1452,GI #1 Intub Site,0.0
+1438,Follows Commands,0.0
+1453,GI #1 Tube Drainage,0.0
+1455,GI #1 Tube Place Check,0.0
+1456,GI #1 Tube Place Method,0.0
+1457,GI #1 Tube Status,0.0
+1459,GI #2 Intub Site,0.0
+1460,GI #2 Tube Drainage,0.0
+1461,GI #2 Tube Mark (CM),0.0
+1439,Food and Fluid,0.0
+1437,Foley Cath Insertion Location,0.0
+1418,Flow (L/min) (HeartWare),0.0
+1426,Flow Alarm (Lo) (LVAD),0.0
+1419,Flow (LVAD),0.0
+1420,Flow (VAD),0.0
+1421,Flow Alarm (Hi) (CH),0.0
+1422,Flow Alarm (Hi) (ECMO),0.0
+1423,Flow Alarm (Hi) (LVAD),0.0
+1424,Flow Alarm (Lo) (CH),0.0
+1425,Flow Alarm (Lo) (ECMO),0.0
+1427,Flow Pattern,0.0
+1436,Flutter Valve,0.0
+1428,Flow Rate (Impella),0.0
+1429,Flow Rate (Impella) (R),0.0
+1431,Flow Rate (variable/fixed),0.0
+1432,Flow Sensitivity,0.0
+1433,Flow Sensor repositioned (CH),0.0
+1434,Flow Sensor repositioned (ECMO),0.0
+1435,Flow Sensor repositioned (LVAD),0.0
+1370,Elimination NCP - Plan revised,0.0
+1368,Elimination NCP - Expected outcomes,0.0
+875,20 G Infiltration Scale,0.0
+1315,Discharge Recommendations (AM-PAC),0.0
+1299,Differential - Immature Granulocytes,0.0
+1300,Differential-Atyps,0.0
+1310,Discharge NCP - Expected outcomes,0.0
+1311,Discharge NCP - Interventions,0.0
+1312,Discharge NCP - Outcomes met,0.0
+1313,Discharge NCP - Plan revised,0.0
+1314,Discharge NCP - Problem resolved,0.0
+1316,Discharge from ICU,0.0
+1297,Dialysis/Pheresis Biopatch,0.0
+1318,Discussed on Rounds,0.0
+1319,Disposition,0.0
+1320,Domestic Violence NCP - Expected outcomes,0.0
+1321,Domestic Violence NCP - Interventions,0.0
+1322,Domestic Violence NCP - Plan revised,0.0
+1323,Domestic Violence NCP - Problem resolved,0.0
+1324,Doppler BP,0.0
+1298,Diet Type,0.0
+1295,Dialysis Catheter placed in outside facility,0.0
+1326,Dorsal PedPulse R,0.0
+1285,Delta P Alarm (CH),0.0
+1275,Current Goal,0.0
+1278,D-Dimer_y,0.0
+1279,DVT Prophy,0.0
+1280,Daily Wake Up,0.0
+1281,Daily Wake Up Deferred,0.0
+1283,Delirium assessment,0.0
+1284,Delta P (CH),0.0
+1286,Device (VAD),0.0
+1294,Dialysis Catheter Type,0.0
+1287,Dialysate Fluid,0.0
+1288,Dialysate Rate,0.0
+1289,Dialysis Catheter Discontinued,0.0
+1290,Dialysis Catheter Dressing Occlusive,0.0
+1291,Dialysis Catheter Placement Confirmed by X-ray,0.0
+1292,Dialysis Catheter Site Appear,0.0
+1293,Dialysis Catheter Tip Cultured,0.0
+1325,Dorsal PedPulse L,0.0
+1327,Dressing Status #1,0.0
+1367,Effluent Pressure,0.0
+1358,Edema Location,0.0
+1351,ETT Size (ID),0.0
+1352,ETT Type,0.0
+1353,Ectopy Frequency 1,0.0
+1354,Ectopy Frequency 2,0.0
+1355,Ectopy Type 1,0.0
+1356,Ectopy Type 2,0.0
+1357,Edema Amount,0.0
+1359,Education Barrier,0.0
+1348,ETT Mark (location),0.0
+1360,Education Existing Knowledge,0.0
+1361,Education Learner,0.0
+1362,Education Method,0.0
+1363,Education Readiness,0.0
+1364,Education Readiness/Motivation,0.0
+1365,Education Response,0.0
+1366,Education Topic,0.0
+1349,ETT Position Change,0.0
+1347,ETT Mark (cm),0.0
+1328,Dressing Status #2,0.0
+1336,Dual Signal Screen,0.0
+1329,Dressing Status #3,0.0
+1330,Dressing Status #4,0.0
+1331,Dressing Status #5,0.0
+1332,Dressing Status #6,0.0
+1333,Driveline Lock Engaged (VAD),0.0
+1334,Drowsiness,0.0
+1335,DswfApacheScore,0.0
+1337,Dual Signal Screen (R),0.0
+1346,ETT Location,0.0
+1338,Dwell Time (Peritoneal Dialysis),0.0
+1339,EF (CCO),0.0
+1340,EKOS Line Site Appear,0.0
+1341,EKOS Position,0.0
+1342,EKOS US,0.0
+1343,EKOS site,0.0
+1344,ELWI (PiCCO),0.0
+1462,GI #2 Tube Place Check,0.0
+1463,GI #2 Tube Place Method,0.0
+1464,GI #2 Tube Status,0.0
+1593,Impaired Mobility NCP - Problem resolved,0.0
+1586,Impaired Fluid Balance NCP - Interventions,0.0
+1587,Impaired Fluid Balance NCP - Outcomes met,0.0
+1588,Impaired Fluid Balance NCP - Plan revised,0.0
+1589,Impaired Fluid Balance NCP - Problem resolved,0.0
+1590,Impaired Mobility  NCP - Interventions,0.0
+1591,Impaired Mobility NCP - Expected outcomes,0.0
+1592,Impaired Mobility NCP - Plan revised,0.0
+1594,Impaired Skin  - Dressing Status  #8,0.0
+1584,Impaired Fluid Balance NCP - Expected outcomes,0.0
+1595,Impaired Skin  - Dressing Status #1,0.0
+1596,Impaired Skin  - Dressing Status #10,0.0
+1597,Impaired Skin  - Dressing Status #2,0.0
+1598,Impaired Skin  - Dressing Status #3,0.0
+1599,Impaired Skin  - Dressing Status #5,0.0
+1600,Impaired Skin  - Dressing Status #6,0.0
+1601,Impaired Skin  - Dressing Status #7,0.0
+1585,Impaired Fluid Balance NCP - Goal,0.0
+1583,Immobilizer Location,0.0
+1603,Impaired Skin #1- Cleanse,0.0
+1571,ICP Line placed in outside facility,0.0
+1564,IABP placed in outside facility,0.0
+1565,ICP Line Discontinued,0.0
+1566,ICP Line Dressing Occlusive,0.0
+1567,ICP Line Site Appear,0.0
+1568,ICP Line Tip Cultured,0.0
+1569,ICP Line Waveform Appear,0.0
+1570,ICP Line Zero/Calibrate,0.0
+1572,ICU Consent,0.0
+1582,Immobilizer Evaluated,0.0
+1573,ICU Consent Signed,0.0
+1575,IO Dressing,0.0
+1576,IO Placed in outside facility,0.0
+1577,IO Site Appearance,0.0
+1578,IO Wristband in place,0.0
+1580,Immobilizer,0.0
+1581,Immobilizer Device,0.0
+1602,Impaired Skin  - Dressing Status #9,0.0
+1604,Impaired Skin #1- Dressing Status,0.0
+1465,GI #2 Tube Type,0.0
+1633,Impaired Skin #6- Treatment,0.0
+1626,Impaired Skin #5- Dressing Status,0.0
+1627,Impaired Skin #5- Location,0.0
+1628,Impaired Skin #5- Treatment,0.0
+1629,Impaired Skin #5- Type,0.0
+1630,Impaired Skin #6- Cleanse,0.0
+1631,Impaired Skin #6- Dressing Status,0.0
+1632,Impaired Skin #6- Location,0.0
+1634,Impaired Skin #6- Type,0.0
+1624,Impaired Skin #4- Type,0.0
+1635,Impaired Skin #7- Cleanse,0.0
+1636,Impaired Skin #7- Dressing Status,0.0
+1637,Impaired Skin #7- Location,0.0
+1638,Impaired Skin #7- Treatment,0.0
+1639,Impaired Skin #7- Type,0.0
+1640,Impaired Skin #8- Cleanse,0.0
+1641,Impaired Skin #8- Dressing Status,0.0
+1625,Impaired Skin #5- Cleanse,0.0
+1623,Impaired Skin #4- Treatment,0.0
+1605,Impaired Skin #1- Location,0.0
+1613,Impaired Skin #2- Treatment,0.0
+1606,Impaired Skin #1- Treatment,0.0
+1607,Impaired Skin #1- Type,0.0
+1608,Impaired Skin #10- Location,0.0
+1609,Impaired Skin #10- Type,0.0
+1610,Impaired Skin #2- Cleanse,0.0
+1611,Impaired Skin #2- Dressing Status,0.0
+1612,Impaired Skin #2- Location,0.0
+1614,Impaired Skin #2- Type,0.0
+1622,Impaired Skin #4- Location,0.0
+1615,Impaired Skin #3- Cleanse,0.0
+1616,Impaired Skin #3- Dressing Status,0.0
+1617,Impaired Skin #3- Location,0.0
+1618,Impaired Skin #3- Treatment,0.0
+1619,Impaired Skin #3- Type,0.0
+1620,Impaired Skin #4- Cleanse,0.0
+1621,Impaired Skin #4- Dressing Status,0.0
+1563,IABP Zero/Calibrate,0.0
+1562,IABP Volume,0.0
+1561,IABP Trigger,0.0
+1500,HCT (VAD),0.0
+1492,Goose Flesh,0.0
+1493,Gooseflesh Skin (COWS),0.0
+1494,Graft/Flap Pulse,0.0
+1495,Grooming,0.0
+1497,HCO3ApacheIIValue,0.0
+1498,HCO3Score,0.0
+1499,HCT (HeartWare),0.0
+1501,HDL,0.0
+1489,GlucoseScore_ApacheIV,0.0
+1502,HEENT,0.0
+1503,HM II- Backup Cont in room with pt settings,0.0
+1504,HM II- Flow,0.0
+1505,HM II- Mean BP,0.0
+1506,HM II- PI,0.0
+1507,HM II- Perc Lock fully engaged,0.0
+1508,HM II- Power,0.0
+1490,Glucose_ApacheIV,0.0
+1487,Glucose Control - Prophy,0.0
+1560,IABP Size,0.0
+1473,GI Guaiac,0.0
+1466,GI #3 Intub Site,0.0
+1467,GI #3 Tube Drainage,0.0
+1468,GI #3 Tube Mark (CM),0.0
+1469,GI #3 Tube Place Check,0.0
+1470,GI #3 Tube Place Method,0.0
+1471,GI #3 Tube Status,0.0
+1472,GI #3 Tube Type,0.0
+1475,GI Prophy,0.0
+1484,Gentamicin (Trough),0.0
+1476,GI Upset (COWS),0.0
+1477,GI pH,0.0
+1478,GU Catheter Size,0.0
+1479,Gag Reflex,0.0
+1481,GcsApacheIIScore,0.0
+1482,GcsScore_ApacheIV,0.0
+1483,Gentamicin (Random),0.0
+1509,HM II- Speed (RPM),0.0
+1510,HM II- Sys Cont in Prim Mode,0.0
+1511,HR_ApacheIV,0.0
+1551,IABP Balloon Waveform,0.0
+1544,HtScore_ApacheIV,0.0
+1545,Humidification,0.0
+1546,Humidifier Water % Fill Level,0.0
+1547,Humidifier Water Changed,0.0
+1548,IABP Alarms Activated,0.0
+1549,IABP Art. Waveform Appear,0.0
+1550,IABP Arterial Waveform Source,0.0
+1552,IABP Dressing Occlusive,0.0
+1512,Head of Bed,0.0
+1553,IABP Helium Tubing,0.0
+1554,IABP Line Discontinued,0.0
+1555,IABP Mean,0.0
+1556,IABP Placement Confirmed by X-ray,0.0
+1557,IABP Position on leg,0.0
+1558,IABP Power Source,0.0
+1559,IABP Site Appear,0.0
+1543,HrScore_ApacheIV,0.0
+1542,HrApacheIIValue,0.0
+1541,HrApacheIIScore,0.0
+1540,Hourly Patient Fluid Removal,0.0
+1513,Head of Bed Measurement,0.0
+1514,Headache,0.0
+1515,Health Care Proxy,0.0
+1518,Heart Rhythm,0.0
+1519,Heart Sounds,0.0
+1523,Heliox,0.0
+1526,HematocritApacheIIScore,0.0
+1527,HematocritApacheIIValue,0.0
+1528,Hematocrit_ApacheIV,0.0
+1529,Hematological / Skin,0.0
+1530,Hemodialysis Output,0.0
+1532,Heparin Concentration (units/mL),0.0
+1533,Heparin Dose (per hour),0.0
+1534,High Power Alarm (HeartWare),0.0
+1535,High Watts Alarm (VAD),0.0
+1273,Cuff Volume/units,0.0
+1272,Cuff Volume (mL),0.0
+1270,Critically ill,0.0
+1007,Angio Site # 2,0.0
+1000,Angio Appearance # 3,0.0
+1001,Angio Appearance # 4,0.0
+1002,Angio Dressing # 1,0.0
+1003,Angio Dressing # 2,0.0
+1004,Angio Dressing # 3,0.0
+1005,Angio Dressing # 4,0.0
+1006,Angio Site # 1,0.0
+1008,Angio Site # 3,0.0
+998,Angio Appearance # 1,0.0
+1009,Angio Site # 4,0.0
+1011,Anti Embolic Device,0.0
+1012,Anti Embolic Device Status,0.0
+1013,Anticipated Discharge,0.0
+1015,Anxiety/Irritability (COWS),0.0
+1016,Any fear in relationships,0.0
+1017,Aortic Pressure Signal - Diastolic,0.0
+999,Angio Appearance # 2,0.0
+997,Amylase_y,0.0
+1019,Apache IV Age,0.0
+986,Altered Sensory Perception NCP - Interventions,0.0
+979,Altered Respiratory Status NCP - Expected outcomes,0.0
+980,Altered Respiratory Status NCP - Goal,0.0
+981,Altered Respiratory Status NCP - Interventions,0.0
+982,Altered Respiratory Status NCP - Plan revised,0.0
+983,Altered Respiratory Status NCP - Problem resolved,0.0
+984,Altered Respiratory Status NCP - outcomes met,0.0
+985,Altered Sensory Perception NCP - Expected Outcomes,0.0
+987,Altered Sensory Perception NCP - Plan revised,0.0
+996,Ammonia_y,0.0
+988,Altered Sensory Perception NCP - Problem resolved,0.0
+989,Altered Skin Integrity NCP - Expected outcomes,0.0
+990,Altered Skin Integrity NCP - Goal,0.0
+991,Altered Skin Integrity NCP - Interventions,0.0
+992,Altered Skin Integrity NCP - Plan revised,0.0
+993,Altered Skin Integrity NCP - Problem resolved,0.0
+994,Altered Skin Integrity NCP - outcomes met,0.0
+1018,Aortic Pressure Signal - Systolic,0.0
+1020,Apache IV PaFiRatio,0.0
+1079,BiPap bpm (S/T -Back up),0.0
+1066,Backup Controller (VAD),0.0
+1056,Augmented Diastole,0.0
+1057,Autoset/CPAP,0.0
+1058,BAEDP,0.0
+1059,BIS - EMG,0.0
+1060,BIS - SQI,0.0
+1063,BUN_ApacheIV,0.0
+1065,Backup Controller (HeartWare),0.0
+1067,Balance,0.0
+1054,Ataxia,0.0
+1068,Baseline Current/mA,0.0
+1070,Basic Mobility (AM-PAC),0.0
+1071,Bath,0.0
+1072,Bed Bath,0.0
+1073,Behavior,0.0
+1074,BiPap EPAP,0.0
+1076,BiPap Mask,0.0
+1055,Auditory Disturbance,0.0
+1053,Assisted Systole,0.0
+1021,ApacheIV_LOS,0.0
+1032,Arm Immobilizer,0.0
+1022,ApacheIV_Mortality prediction,0.0
+1023,ApacheIV_Natural antilog,0.0
+1024,Apnea Interval,0.0
+1025,Appetite,0.0
+1026,Arctic Sun Temp #1 Location,0.0
+1027,Arctic Sun Temp #2 Location,0.0
+1029,Arctic Sun/Alsius Set Temp,0.0
+1033,Art Bubble On (CH),0.0
+1052,Assistance Device,0.0
+1041,Arterial Line Discontinued,0.0
+1042,Arterial Line Dressing Occlusive,0.0
+1043,Arterial Line Tip Cultured,0.0
+1048,Arterial line Site Appear,0.0
+1049,Arterial line Waveform Appear,0.0
+1050,Assist Device,0.0
+1051,Assistance,0.0
+978,Altered Mental Status  NCP - outcomes met,0.0
+977,Altered Mental Status  NCP - Problem resolved,0.0
+976,Altered Mental Status  NCP - Plan revised,0.0
+912,ART Blood Pressure Alarm - Low,0.0
+902,APACHE II PDR - Adjusted,0.0
+903,APACHE II Predecited Death Rate,0.0
+904,APACHEII-Renal failure,0.0
+905,APACHEIII,0.0
+906,APS,0.0
+907,ARF,0.0
+909,ART BP Mean,0.0
+913,ART Blood Pressure Alarm Source,0.0
+899,ABP Alarm Source,0.0
+914,ART Lumen Volume,0.0
+916,AT (Antithrombin funct),0.0
+917,ATC %,0.0
+918,ATC Tube #,0.0
+919,AV Fistula L Bruit,0.0
+920,AV Fistula L Thrill,0.0
+921,AV Fistula R Bruit,0.0
+901,APACHE II,0.0
+898,ABI Brachial BP R (Impella),0.0
+975,Altered Mental Status  NCP - Interventions,0.0
+888,22 Gauge placed in the field,0.0
+876,20 G Phlebitis Scale,0.0
+878,20 Gauge Reason Discontinued,0.0
+879,20 Gauge Site Appear,0.0
+882,22 G Infiltration Scale,0.0
+883,22 G Phlebitis Scale,0.0
+885,22 Gauge Reason Discontinued,0.0
+886,22 Gauge Site Appear,0.0
+889,24 G Infiltration Scale,0.0
+897,ABI Brachial BP L,0.0
+890,24 G Phlebitis Scale,0.0
+891,24 Gauge Dressing Occlusive,0.0
+892,24 Gauge Reason Discontinued,0.0
+893,24 Gauge placed in outside facility,0.0
+894,24 Gauge placed in the field,0.0
+895,ABI Ankle BP L (Impella),0.0
+896,ABI Ankle BP R,0.0
+922,AV Fistula R Thrill,0.0
+923,AVA Dressing Occlusive,0.0
+924,AVA Line Discontinued,0.0
+963,Airway Size (mm),0.0
+952,Activity RR - Aerobic Capacity,0.0
+953,Activity Tolerance,0.0
+958,AgeApacheIIScore,0.0
+959,AgeApacheIIValue,0.0
+960,AgeScore_ApacheIV,0.0
+961,Agitation,0.0
+962,Airway Location,0.0
+964,Airway Type,0.0
+925,AVA Line Placement Confirmed by X-ray,0.0
+965,Airway problems,0.0
+968,AlbuminScore_ApacheIV,0.0
+969,Albumin_ApacheIV,0.0
+971,All Medications Tolerated without Adverse Side Effects,0.0
+972,Alsius Bath Temp,0.0
+973,Altered Mental Status  NCP - Expected outcomes,0.0
+974,Altered Mental Status  NCP - Goal,0.0
+951,Activity O2 Sat - Aerobic Capacity,0.0
+950,Activity Intolerance NCP - Plan revised,0.0
+949,Activity Intolerance  NCP - Problem resolved,0.0
+948,Activity Intolerance  NCP - Interventions,0.0
+926,AVA Line Site Appear,0.0
+927,AVA Line Tip Cultured,0.0
+928,AVA Line Zero/Calibrate,0.0
+929,AVA Line placed in outside facility,0.0
+930,AVA Waveform Appearance,0.0
+931,Abdominal - (GI / Hepatic / Renal),0.0
+932,Abdominal Assessment,0.0
+933,Abdominal Changes: Observation,0.0
+934,Absolute Count - Basos,0.0
+939,Absolute Neutrophil Count_y,0.0
+941,Access Site Observed (Tandem Heart),0.0
+943,Activity,0.0
+945,Activity / Mobility (RN Daily Mobility Goal),0.0
+946,Activity HR - Aerobic Capacity,0.0
+947,Activity Intolerance  NCP - Expected outcomes,0.0
+1077,BiPap Mode,0.0
+1080,BiliScore_ApacheIV,0.0
+1269,Creatinine_ApacheIV,0.0
+1218,Circuit Changed,0.0
+1209,Chest Tube Site # 1,0.0
+1210,Chest Tube Site # 2,0.0
+1211,Chest Tube Site #3,0.0
+1212,Chest Tube Site #4,0.0
+1215,Cholesterol,0.0
+1216,ChpApacheIIScore,0.0
+1217,ChronicScore_ApacheIV,0.0
+1219,Circuit Configuration (CH),0.0
+1207,Changes in Temperature,0.0
+1220,Circuit Configuration (ECMO),0.0
+1221,Circuit inspected for clot (CH),0.0
+1222,Circuit inspected for clot (ECMO),0.0
+1223,Circulation/Skin Integrity,0.0
+1224,Citrate (ACD-A),0.0
+1225,Clot Size (cm),0.0
+1226,Clots,0.0
+1208,Chest PT R/L,0.0
+1206,Change in Blood Color,0.0
+1228,Code Status.,0.0
+1193,Cardiovascular,0.0
+1185,Capillary Refill L,0.0
+1186,Capillary Refill R,0.0
+1187,Cardiac Assist Cannula Position,0.0
+1188,Cardiac Assist Cannula Site Appear,0.0
+1189,Cardiac Index (CI NICOM),0.0
+1190,Cardiac Output (CCO),0.0
+1191,Cardiac Output (CO NICOM),0.0
+1196,Central Venous Pressure  Alarm - Low,0.0
+1205,Cervical Collar Type,0.0
+1198,Cerebellar - Finger -> Nose,0.0
+1199,Cerebellar - Heel -> Shin,0.0
+1200,Cerebral Perfusion Pressure,0.0
+1201,Cerebral Perfusion Pressure Alarm - High,0.0
+1202,Cerebral Perfusion Pressure Alarm - Low,0.0
+1203,Cerebral Temperature (C),0.0
+1204,Cervical Collar Status,0.0
+1227,Code Status,0.0
+1229,Collar Care,0.0
+1081,Bilirubin_ApacheIV,0.0
+1258,Corneal Reflex Right,0.0
+1251,Cordis/Introducer Discontinued,0.0
+1252,Cordis/Introducer Dressing Occlusive,0.0
+1253,Cordis/Introducer Line Tip Cultured,0.0
+1254,Cordis/Introducer Placement Confirmed by X-ray,0.0
+1255,Cordis/Introducer Site Appear,0.0
+1256,Cordis/Introducer placed in outside facility,0.0
+1257,Corneal Reflex Left,0.0
+1259,Cortisol_y,0.0
+1249,Coping/Knowledge Deficit  NCP - Problem resolved,0.0
+1260,Cough Effort,0.0
+1261,Cough Reflex,0.0
+1262,Cough Type,0.0
+1264,CreatScore_ApacheIV,0.0
+1266,Creatinine (whole blood),0.0
+1267,CreatinineApacheIIScore,0.0
+1268,CreatinineApacheIIValue,0.0
+1250,Coping/Knowledge Deficit  NCP - outcomes met,0.0
+1248,Coping/Knowledge Deficit  NCP - Plan revised,0.0
+1230,Commands,0.0
+1238,Constitutional,0.0
+1231,Commands Response,0.0
+1232,Communication,0.0
+1233,Compliance,0.0
+1234,Compression device # 1,0.0
+1235,Compression device # 2,0.0
+1236,Compression device # 3,0.0
+1237,Compression device # 4,0.0
+1239,Consults,0.0
+1247,Coping/Knowledge Deficit  NCP - Interventions,0.0
+1240,Cont Neb - Med,0.0
+1241,Cont. Neb Med Dose,0.0
+1242,Continuous Pressure Machine Status,0.0
+1243,Cooling Device,0.0
+1244,Cooling Device Status,0.0
+1245,Coping/Knowledge Deficit  NCP - Expected outcomes,0.0
+1246,Coping/Knowledge Deficit  NCP - Goal,0.0
+1184,Cannulas Visible,0.0
+1183,Cannula sites visually inspected (LVAD),0.0
+1182,Cannula sites visually inspected (ECMO),0.0
+1123,CFI (PiCCO),0.0
+1116,CCO PAC Dressing Occlusive,0.0
+1117,CCO PAC Line Tip Cultured,0.0
+1118,CCO PAC Placement Confirmed by X-ray,0.0
+1119,CCO PAC Site Appear,0.0
+1120,CCO PAC Waveform Appear,0.0
+1121,CCO PAC Zero/Calibrate,0.0
+1122,CCO PAC placed in outside facility,0.0
+1125,CI (PiCCO),0.0
+1114,CAM-ICU RASS LOC,0.0
+1129,CO (Arterial),0.0
+1130,CO (PiCCO),0.0
+1131,CO / CI Change,0.0
+1132,CO-Tandem Heart Flow,0.0
+1134,CP-Pain Assessment Method,0.0
+1135,CP-Pain Assessment Method-Post,0.0
+1136,CP-Pain Management,0.0
+1115,CAUTI Info Given,0.0
+1113,CAM-ICU MS change,0.0
+1181,Cannula sites visually inspected (CH),0.0
+1092,Brachial Pulse R,0.0
+1082,Bladder Irrigation,0.0
+1083,Bladder Pressure,0.0
+1085,Bladder scanned,0.0
+1086,Blood Flow (ml/min),0.0
+1089,Bone/Joint Aches (COWS),0.0
+1090,Bowel Sounds,0.0
+1091,Brachial Pulse L,0.0
+1100,Brain Tissue Oxygenation,0.0
+1108,C Reactive Protein (CRP),0.0
+1101,Breast Feed - L (Minutes),0.0
+1102,Breast Feed - R (Minutes),0.0
+1103,Breast Feeding,0.0
+1104,Breast Feeding - L,0.0
+1105,Breast Feeding - R,0.0
+1106,Breathing pattern/effort,0.0
+1107,BunScore_ApacheIV,0.0
+1139,CPOT-Facial Expression (CPOTa),0.0
+1140,CPOT-Facial Expression (CPOTb),0.0
+1141,CPOT-Muscle Tension (CPOTa),0.0
+1170,CT #4 Drainage,0.0
+1163,CT #3 Drainage,0.0
+1164,CT #3 Dressing,0.0
+1165,CT #3 Fluctuate,0.0
+1166,CT #3 Leak,0.0
+1167,CT #3 Suction Amount,0.0
+1168,CT #3 Suction Type,0.0
+1169,CT #4 Crepitus,0.0
+1171,CT #4 Dressing,0.0
+1142,CPOT-Muscle Tension (CPOTb),0.0
+1172,CT #4 Fluctuate,0.0
+1173,CT #4 Leak,0.0
+1174,CT #4 Suction Amount,0.0
+1175,CT #4 Suction Type,0.0
+1176,CV - past medical history,0.0
+1177,CVL Biopatch,0.0
+1179,Calibrated (PiCCO),0.0
+1162,CT #3 Crepitus,0.0
+1161,CT #2 Suction Type,0.0
+1160,CT #2 Suction Amount,0.0
+1159,CT #2 Leak,0.0
+1143,CPOT-Pain Assessment Method,0.0
+1144,CPOT-Pain Management,0.0
+1145,CPOT-Vocalization (CPOTa),0.0
+1147,CRRT mode,0.0
+1148,CT #1 Crepitus,0.0
+1149,CT #1 Drainage,0.0
+1150,CT #1 Dressing,0.0
+1151,CT #1 Fluctuate,0.0
+1152,CT #1 Leak,0.0
+1153,CT #1 Suction Amount,0.0
+1154,CT #1 Suction Type,0.0
+1155,CT #2 Crepitus,0.0
+1156,CT #2 Drainage,0.0
+1157,CT #2 Dressing,0.0
+1158,CT #2 Fluctuate,0.0
+2916,Yawning (COWS),0.0
