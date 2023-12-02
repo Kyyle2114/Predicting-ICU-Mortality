@@ -28,9 +28,3 @@ url = 'https://github.com/Kyyle2114/Predicting-ICU-Mortality'
 st.write('프로젝트에 사용된 코드는 [GitHub](%s)에서 자세히 확인하실 수 있습니다.' %url)
 
 st.write('광운대학교 정보융합학부 김주혁, 장원재')
-
-st.subheader('모델 예측 결과')
-st.write('')
-
-st.subheader('Global Feature Importance')
-st.write('')
