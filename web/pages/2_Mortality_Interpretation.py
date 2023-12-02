@@ -75,8 +75,8 @@ with col1 :
         # shap value -> pd.Series 
         s = pd.Series(shap_values.reshape(-1,), )
         
-        # Maximum top 10 features (Local feature importance)
-        idx = abs(s).sort_values()[-10:].index
+        # Maximum top 12 features (Local feature importance)
+        idx = abs(s).sort_values()[-12:].index
         shap_values_plot = s[idx]
         shap_values_plot.index = X.columns[idx].values
 
